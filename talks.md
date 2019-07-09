@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](./index.html) /// [Publications](./publications.hmtl) ///  Talks
+[CV](./index.html) /// [Publications](./publications.html) ///  Talks
 
 # Talks
 
