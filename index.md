@@ -2,7 +2,7 @@
 layout: default
 ---
 
-CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
+# CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
 
 ## Research Interests
 
