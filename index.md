@@ -9,6 +9,7 @@ CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
 * Political communication, populism, & societal cohesion
 * Perceptions, uses, & effects of news media
 * Social dynamics & psychological mechanisms of media change & innovation
+* Quantitative methods
 
 ## Bio
 
