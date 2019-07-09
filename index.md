@@ -6,9 +6,10 @@ CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
 
 ## Research Interests
 
-* Political communication, populism, & societal cohesion
-* Perceptions, uses, & effects of news media
-* Social dynamics & psychological mechanisms of media change & innovation
+* Political communication & societal cohesion
+* Perceptions & effects of news media
+* Digital news consumption
+* Media change & innovation
 * Quantitative methods
 
 ## Bio
