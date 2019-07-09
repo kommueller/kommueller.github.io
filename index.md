@@ -2,7 +2,7 @@
 layout: default
 ---
 
-CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
+<span style="font-size:14pt">CV /// [Publications](./publications.html) ///  [Talks](./talks.html)</span>
 
 ## Research Interests
 
