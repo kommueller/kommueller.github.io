@@ -12,9 +12,7 @@ CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
 * Media change & innovation
 * Quantitative methods
 
-## Bio
-
-### Education
+## Education
 
 *2015* /// **PhD in Communication**
 <br>*Ludwig-Maximilians University Munich, Germany*
@@ -26,7 +24,7 @@ CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
 *2008* /// **B.A. in Media and Communication**
 <br>*University of Passau, Germany*
 
-### Academic Positions
+## Academic Positions
 
 *since 2019* /// **Senior Lecturer**
 <br>*University of Mannheim, Germany*
