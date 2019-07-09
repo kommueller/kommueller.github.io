@@ -4,7 +4,7 @@ layout: default
 
 [CV](./index.html) /// Publications ///  [Talks](./talks.html)
 
-#Publications
+# Publications
 
 ...will be added soon
 
