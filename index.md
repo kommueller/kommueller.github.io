@@ -28,7 +28,7 @@ CV /// [Publications](./publications.html) ///  [Talks](./talks.html)
 
 ### Academic Positions
 
-*since 2019* /// **Senior Lecturer [Akademischer Rat]**
+*since 2019* /// **Senior Lecturer**
 <br>*University of Mannheim, Germany*
 <br>Institute for Media and Communication Studies
 
