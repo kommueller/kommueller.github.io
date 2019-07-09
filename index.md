@@ -8,15 +8,15 @@ Welcome to my personal website!
 
 Here, you can obtain information about my work. Please note that the [publications](./publications.html) list features links to all <span style="color:orange">openly accessible</span> publications.
 
-##Research Interests
+## Research Interests
 
 * Political communication, populism, & societal cohesion
 * Perceptions, uses, & effects of news media
 * Social dynamics & psychological mechanisms of media change & innovation
 
-##Bio
+## Bio
 
-###Education
+### Education
 
 *2015* **PhD in Communication**
 <br>*Ludwig-Maximilians University Munich, Germany*
@@ -30,7 +30,7 @@ Here, you can obtain information about my work. Please note that the [publicatio
 *2008* **B.A. in Media and Communication**
 <br>*University of Passau, Germany*
 
-###Academic Positions
+### Academic Positions
 
 *since 2019* **Senior Lecturer [Akademischer Rat]**
 <br>*University of Mannheim, Germany*
@@ -58,7 +58,7 @@ Here, you can obtain information about my work. Please note that the [publicatio
 <br>Chair of Communication Studies
 <br>Chair of Modern German Literary Studies
 
-##Awards & Distinctions
+## Awards & Distinctions
 
 * Best Proposal Award 2018 of DGPuK's Communication and Politics Division
 * The Kaid Sanders Best Article of the Year Award 2017 of ICA's Political Communication Division
@@ -75,7 +75,7 @@ Here, you can obtain information about my work. Please note that the [publicatio
 * Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP), Netzwerk Medienstrukturen, & Team Populism
 * Functions in academic self-government (e.g., faculty council member, commissioner for the library of the Department of Communication at U Mainz, member of appointment & teaching committees)
 
-##Knowledge Transfer
+## Knowledge Transfer
 
 * Author of expert reports (e.g., for Bundeszentrale für politische Bildung, Friedrich-Naumann-Stiftung für die Freiheit)
 * Media appearances (interviews with, e.g., ARD.de, Deutschlandfunk, dpa, MDR aktuell, meta – Das Magazin über Journalismus und Wissenschaft, Süddeutsche Zeitung, SWR Fernsehen, ZDF, ZDFinfo, Welt am Sonntag)
