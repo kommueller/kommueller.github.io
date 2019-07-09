@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[CV](./index.html) /// [Publications](./publications.html) ///  Talks
+<span style="font-size:14pt">[CV](./index.html) /// [Publications](./publications.html) ///  Talks</span>
 
-# Talks
+## Talks
 
 ...will be added soon.
