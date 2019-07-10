@@ -20,7 +20,7 @@ Koch, T., Peter, C., & **Müller, P.** (2019). *Das Experiment in der Kommunikat
 
 Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (eds., 2010). *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis.* Berlin: Lit. (2nd edition, 2013)
 
-##Journal Articles
+## Journal Articles
 
 **Müller, P.**, & Schulz, A. (accepted). Facebook or Fakebook? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media.*
 
@@ -31,3 +31,13 @@ Wettstein, M., Esser, F., Büchel, F., Schemer, C., Wirz, D. S., Schulz, A., Ern
 Schulz, A., Wirth, W., & **Müller, P.** (2018). We are the people and you are fake news: A social identity approach to populist citizens’ false consensus and hostile media perceptions. *Communication Research.* <a href="https://doi.org/10.1177/0093650218794854" target="_blank">https://doi.org/10.1177/0093650218794854</a>
 
 **Müller, P.**, Schmitt, J. B., & Krämer, B. (2018). Of rules and role models: How perceptions of parents’ mediation and modelling contribute to individuals’ media innovativeness. *Journal of Broadcasting & Electronic Media, 62*, 685-703. <a href="https://doi.org/10.1080/08838151.2018.1519569" target="_blank">https://doi.org/10.1080/08838151.2018.1519569</a>
+
+Wirz, D. S., Wettstein, M., Schulz, A., **Müller, P.**, Schemer, C., Ernst, N., Esser, F., & Wirth, W. (2018). The effects of right-wing populist communication on emotions and cognitions toward immigrants. *The International Journal of Press/Politics, 23*, 496-516. <a href="https://doi.org/10.1177/1940161218788956" target="_blank">https://doi.org/10.1177/1940161218788956</a>
+
+Schemer, C., Wirth, W., Wettstein, M., **Müller, P.**, Schulz, A., & Wirz, D. (2018). Wirkung populistischer Kommunikation. Populismus in den Medien, Wirkungen und deren Randbedingungen. *Communicatio Socialis, 51*, 118-130. <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/0010-3497-2018-2-118" target="_blank">https://doi.org/10.5771/0010-3497-2018-2-118</a>
+
+Schulz, A., **Müller, P.**, Schemer, C., Wirz, D. S., Wettstein, M., & Wirth, W. (2018). Measuring populist attitudes on three dimensions. *International Journal of Public Opinion Research, 30*, 316–326. <a href="https://doi.org/10.1093/ijpor/edw037" target="_blank">https://doi.org/10.1093/ijpor/edw037</a> /// <font color="#f36b2c">open access:</font> <a href="https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edw037/2993904?guestAccessKey=8f742c4c-2b99-4e20-8a74-44f25f23becb" target="_blank">https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edw037/2993904?guestAccessKey=8f742c4c-2b99-4e20-8a74-44f25f23becb</a>
+
+Schindler, J., & **Müller, P.** (2018). Design follows politics? The visualization of political orientation in newspaper page layout. *Visual Communication, 17*, 141–161. <a href="https://doi.org/10.1177/1470357217746812" target="_blank">https://doi.org/10.1177/1470357217746812</a>
+
+**Müller, P.**, Schemer, C., Wettstein, M., Schulz, A., Wirz, D. S., Engesser, S., & Wirth, W. (2017). The polarizing impact of news coverage on populist attitudes in the public: Evidence from a panel study in four European democracies. *Journal of Communication, 67*, 968–992. <a href="https://doi.org/10.1111/jcom.12337" target="_blank">https://doi.org/10.1111/jcom.12337</a> /// <font color="#f36b2c">open access:</font> <a href="https://academic.oup.com/joc/article/67/6/968/4753841?guestAccessKey=794bd19e-d1e3-44cc-817f-e2a6e0113ef8" target="_blank">https://academic.oup.com/joc/article/67/6/968/4753841?guestAccessKey=794bd19e-d1e3-44cc-817f-e2a6e0113ef8</a>
