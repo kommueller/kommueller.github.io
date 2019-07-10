@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<span style="font-size:14pt">CV /// [Publications](./publications.html)</span>
+<span style="font-size:14pt">Home /// [CV](./cv.html) /// [Publications](./publications.html)</span>
+
+## Welcome to my Website!
+
+This page will give you can an overview of my academic work. Most importantly, I would like to draw your attention to the fact that the [publications list] (./publications.html) features links to openly accessible versions of many of my publications.
 
 ## Research Interests
 
@@ -12,61 +16,14 @@ layout: default
 * Media change & innovation
 * Quantitative methods
 
-## Education
+## Recent Publications
 
-*2015* /// **PhD in Communication (Major) & Political Science (Minor)**
-<br>*Ludwig-Maximilians University Munich, Germany*
-<br>summa cum laude
+Müller, P. (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
 
-*2010* /// **M.A. in Media and Communication**
-<br>*University of Passau, Germany*
+Müller P., & Denner, N. (2019). *What Can Be Done to Counter Fake News?* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
 
-*2008* /// **B.A. in Media and Communication**
-<br>*University of Passau, Germany*
+Wettstein, M., Esser, F., Büchel, F., Schemer, C., Wirz, D. S., Schulz, A., Ernst, N., Engesser, S., Müller, P., & Wirth, W. (2019). What drives populist styles? Analyzing immigration and labor market news in 11 countries. *Journalism & Mass Communication Quarterly, 96*, 516-536. /// <a href="https://doi.org/10.1177/1077699018805408" target="_blank">https://doi.org/10.1177/1077699018805408</a>
 
-## Academic Positions
+Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
 
-*since 2019* /// **Senior Lecturer**
-<br>*University of Mannheim, Germany*
-<br>Institute for Media and Communication Studies
-
-*2014 to 2019* /// **Postdoc**
-<br>*Johannes Gutenberg University Mainz, Germany*
-<br>Department of Communication
-
-*2013* /// **Visiting Lecturer**
-<br>*La Sapienza – University of Rome, Italy*
-<br>Department of Communication and Social Sciences
-
-*2010 to 2014* /// **Research & Teaching Associate**
-<br>*Ludwig-Maximilians University Munich, Germany*
-<br>Department of Communication Studies and Media Research
-
-*2008 to 2010* /// **Student Research & Teaching Assistant**
-<br>*University of Passau, Germany*
-<br>Chair of Communication Studies
-<br>Chair of Modern German Literary Studies
-<br>Data Center
-
-## Awards & Distinctions
-
-* Best Proposal Award 2018 of DGPuK's Communication and Politics Division
-* The Kaid Sanders Best Article of the Year Award 2017 of ICA's Political Communication Division
-* Top Paper Award 2016/2017 of the journal *SCM – Studies in Communication and Media*
-* Top Reviewer 2017 of the journal *Journalism & Mass Communication Quarterly*
-* Best Proposal Award 2017 of DGPuK's Media Reception and Effects Division
-* Top Poster 2015 of ICA's Mass Communication Division
-* Best Paper Award 2011 of DGPuK's Media Reception and Effects Division
-
-## Services to the Academic Community
-
-* Reviewer for national & international conferences & journals (e.g., *Communication Research*, *Information, Communication & Society*, *Journal of Communication*, *New Media & Society*, *Public Opinion Quarterly*)
-* Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
-* Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP), Netzwerk Medienstrukturen, & Team Populism
-* Functions in academic self-government (e.g., faculty council member, commissioner for the library of the Department of Communication at U Mainz, member of appointment, program admission, & teaching committees)
-
-## Knowledge Transfer
-
-* Author of expert reports (e.g., Bundeszentrale für politische Bildung, DW Akademie, Friedrich-Naumann-Stiftung für die Freiheit)
-* Media appearances (e.g., Deutschlandfunk, Süddeutsche Zeitung, ZDF, Welt am Sonntag)
-* Invited talks & panel discussions (e.g., Bündnis 90/Die Grünen Rheinland-Pfalz, Landesanstalt für Medien NRW, Jugend- und Sozialamt Frankfurt a. M.)
+Müller, P., Schmitt, J. B., & Krämer, B. (2018). Of rules and role models: How perceptions of parents’ mediation and modelling contribute to individuals’ media innovativeness. *Journal of Broadcasting & Electronic Media, 62*, 685-703. /// <a href="https://doi.org/10.1080/08838151.2018.1519569" target="_blank">https://doi.org/10.1080/08838151.2018.1519569</a>

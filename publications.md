@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="font-size:14pt">[CV](./index.html) /// Publications</span>
+<span style="font-size:14pt">[Home](./index.html) /// [CV](./cv.html) /// Publications</span>
 
 ## Monographs
 
@@ -78,13 +78,13 @@ Schemer, C., & **Müller, P.** (2017). Europe: Representations of ethnic minorit
 
 **Müller, P.** (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
-## Chapters in Edited Volumes & Online Dossiers
+## Chapters in Edited Volumes & Online Collections
 
 Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
 **Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (in press). Die Dynamik öffentlicher Kommunikationsprozesse als Herausforderung für die empirische Forschung. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
-**Müller, P.** (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinforma-tion.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
+**Müller, P.** (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
 
 **Müller, P.** (2018). Polarisierung des Publikums. Wie sich die Beziehung zwischen Journalismus und Bürgern verändert – und warum. In P. Limbourg & R. Grätz (eds.), *Meinungsmache im Netz: Fake News, Bots und Hate Speech* (pp. 33-43). Göttingen: Steidl. /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4" target="_blank">https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4</a>
 
@@ -94,7 +94,7 @@ Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing s
 
 **Müller, P.** (2015). Kognitive und affektive Barrieren bei der Kommunikation politischer Reformen. In R. Fröhlich & T. Koch (eds.), *Politik – PR – Persuasion. Strukturen, Funktionen und Wirkungen politischer Öffentlichkeitsarbeit* (pp. 171-191). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-01683-8_9" target="_blank">https://doi.org/10.1007/978-3-658-01683-8_9</a>
 
-Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispielen in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezepti-ons- und Wirkungsforschung* (pp. 317-334). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
+Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispielen in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezeptions- und Wirkungsforschung* (pp. 317-334). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
 
 **Müller, P.**, Scherr, S., & Fast, V. (2013). Der Einfluss wahrgenommener Medienwirkungen auf die Verarbeitung von Fallbeispielen. In O. Jandura, A. Fahr, & H.-B. Brosius (eds.), *Theorieanpassungen in der digitalen Medienwelt* (pp. 141-158). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845242682-141" target="_blank">https://doi.org/10.5771/9783845242682-141</a>
 
@@ -102,7 +102,7 @@ Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Date
 
 Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (2010). Der Crossmedia-Zug rollt. Wer oder was bleibt auf der Strecke? In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 11-18). Berlin: Lit.
 
-**Müller, P.** (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevard-presse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Poli-tische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
+**Müller, P.** (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Poli-tische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
 
 ## Reports & Working Papers
 
