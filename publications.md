@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="font-size:14pt">[CV](./index.html) /// Publications ///  [Talks](./talks.html)</span>
+<span style="font-size:14pt">[CV](./index.html) /// Publications</span>
 
 ## Monographs
 
@@ -56,7 +56,7 @@ Krämer, B., & **Müller, P.** (2016). Is a theory of media and communication hi
 
 **Müller, P.**, Schneiders, P., & Schäfer, S. (2016). Appetizer or main dish? Explaining the use of Facebook news posts as a substitute for other news sources. *Computers in Human Behavior, 65*, 431-441. /// <a href="https://doi.org/10.1016/j.chb.2016.09.003" target="_blank">https://doi.org/10.1016/j.chb.2016.09.003</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://osf.io/cjz54" target="_blank">https://osf.io/cjz54</a>
 
-**Müller, P.** (2013). National identity building through patterns of an international third-person perception in news coverage. *International Communication Gazette, 75*, 732-749. /// <a href="https://doi.org/10.1177/1748048513482546" target="_blank">https://doi.org/10.1177/1748048513482546</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="http://nbn-resolving.de/urn:nbn:de:0168-ssoar-58485-1" target="_blank">http://nbn-resolving.de/urn:nbn:de:0168-ssoar-58485-1</a>
+**Müller, P.** (2013). National identity building through patterns of an international third-person perception in news coverage. *International Communication Gazette, 75*, 732-749. /// <a href="https://doi.org/10.1177/1748048513482546" target="_blank">https://doi.org/10.1177/1748048513482546</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.de/urn:nbn:de:0168-ssoar-58485-1" target="_blank">https://nbn-resolving.de/urn:nbn:de:0168-ssoar-58485-1</a>
 
 Krämer, B., & **Müller, P.** (2013). Die (Geschichts-)Theorien der Mediengeschichtsforschung – Ansätze für Typologien. *Medien & Zeit, 28*(2), 53-68. /// <font color="#f36b2c">open access:</font> <a href="http://medienundzeit.at/wp-content/uploads/2015/04/MZ_2013-02.pdf" target="_blank">http://medienundzeit.at/wp-content/uploads/2015/04/MZ_2013-02.pdf</a>
 
@@ -66,4 +66,66 @@ Scherr, S., **Müller, P.**, & Fast, V. (2013). Do third-person perceptions ampl
 
 Scherr, S., **Müller, P.**, & Fast, V. (2013). Single comments or average ratings: Which ele-ments of RateMyProfessors.com shape university students’ judgments and course choice intentions? *Educational Assessment, Evaluation and Accountability, 25*, 131-141. /// <a href="https://doi.org/10.1007/s11092-013-9164-z" target="_blank">https://doi.org/10.1007/s11092-013-9164-z</a>
 
-**Müller, P.** (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="http://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831" target="_blank">http://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831</a>
+**Müller, P.** (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831" target="_blank">https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831</a>
+
+## Chapters in Handbooks & Encyclopedias
+
+**Müller, P.**, & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Hoboken, NJ: Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
+
+Schemer, C., & **Müller, P.** (2017). Europe: Representations of ethnic minorities and their effects. In C. P. Campbell (ed.), *The Routledge Companion to Media and Race* (pp. 259-268). New York: Routledge.
+
+**Müller, P.** (2013). Ralf Hohlfeld. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/ralf-hohlfeld" target="_blank">http://blexkom.halemverlag.de/ralf-hohlfeld</a>
+
+**Müller, P.** (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
+
+## Chapters in Edited Volumes & Online Dossiers
+
+Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+
+**Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (in press). Die Dynamik öffentlicher Kommunikationsprozesse als Herausforderung für die empirische Forschung. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+
+**Müller, P.** (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinforma-tion.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
+
+**Müller, P.** (2018). Polarisierung des Publikums. Wie sich die Beziehung zwischen Journalismus und Bürgern verändert – und warum. In P. Limbourg & R. Grätz (eds.), *Meinungsmache im Netz: Fake News, Bots und Hate Speech* (pp. 33-43). Göttingen: Steidl. /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4" target="_blank">https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4</a>
+
+**Müller, P.** (2016). National identity building as a mediated process: A two-level model of its functions and dysfunctions. In J. Grimm, L. Huddy, P. Schmidt, & J. Seethaler (eds.), *Dynamics of National Identity. Media and Societal Factors of What We Are* (pp. 319-333). Abingdon: Routledge.
+
+**Müller, P.** (2015). Gib mir Orientierung, gib mir Redestoff! Wie sich die Wahrnehmung des Medienwandels auf die Zahlungsbereitschaft für journalistische Inhalte auswirkt. In S. Pagel (ed.), *Schnittstellen (in) der Medienökonomie* (pp. 361-378). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845264868-361" target="_blank">https://doi.org/10.5771/9783845264868-361</a>
+
+**Müller, P.** (2015). Kognitive und affektive Barrieren bei der Kommunikation politischer Reformen. In R. Fröhlich & T. Koch (eds.), *Politik – PR – Persuasion. Strukturen, Funktionen und Wirkungen politischer Öffentlichkeitsarbeit* (pp. 171-191). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-01683-8_9" target="_blank">https://doi.org/10.1007/978-3-658-01683-8_9</a>
+
+Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispie-len in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezepti-ons- und Wirkungsforschung* (pp. 317-334). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
+
+**Müller, P.**, Scherr, S., & Fast, V. (2013). Der Einfluss wahrgenommener Medienwirkungen auf die Verarbeitung von Fallbeispielen. In O. Jandura, A. Fahr, & H.-B. Brosius (eds.), *Theorieanpassungen in der digitalen Medienwelt* (pp. 141-158). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845242682-141" target="_blank">https://doi.org/10.5771/9783845242682-141</a>
+
+**Müller, P.** (2010). Das Legitimationsproblem des öffentlich-rechtlichen Rundfunks im Zeit-alter der Medienkonvergenz. In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 172-193). Berlin: Lit.
+
+Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (2010). Der Crossmedia-Zug rollt. Wer oder was bleibt auf der Strecke? In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 11-18). Berlin: Lit.
+
+**Müller, P.** (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevard-presse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Poli-tische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
+
+## Reports & Working Papers
+
+**Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [englisch translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
+
+**Müller, P.**, & Denner, N. (2019). *Was tun gegen Fake News? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet* (2nd, fully revised edition). Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/792" target="_blank">https://shop.freiheit.org/#!/Publikation/792</a>
+
+**Müller, P.**, & Denner, N. (2017). *Was tun gegen "Fake News"? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet.* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://www.freiheit.org/sites/default/files/uploads/2017/06/16/a4fakenews.pdf" target="_blank">https://www.freiheit.org/sites/default/files/uploads/2017/06/16/a4fakenews.pdf</a>
+
+Wirth, W., Schemer, C., Schulz, A., Wettstein, M., Wirz, D. S., & **Müller, P.** (2017). *A Multi-Dimensional Measure to Assess Populist Attitudes in the Public in Eight Languages* (NCCR Democracy Working Paper No. 87). Zürich: NCCR Democracy. /// <font color="#f36b2c">open access:</font> <a href="http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp87.pdf" target="_blank">http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp87.pdf</a>
+
+Wirth, W., Esser, F., Wettstein, M., Engesser, S., Wirz, D., Schulz, A., Ernst, N., Büchel, F., Caramani, D., Steenbergen, M., Bernhard, L., Weber, E., Hänggli, R., Dalmus, C., Schemer, C., & **Müller, P.** (2016). *The Appeal of Populist Ideas, Strategies and Styles: A Theoretical Model and Research Design for Analyzing Populist Political Communication* (NCCR Democracy Working Paper No. 88). Zürich: NCCR Democracy. /// <font color="#f36b2c">open access:</font> <a href="http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp88.pdf" target="_blank">http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp88.pdf</a>
+
+## Book Reviews
+
+**Müller, P.** (2019). Review of „Populistische Kommunikation und die Rolle der Medien“ (by Franzisca Schmidt). *r:k:m rezensionen:kommunikation:medien.* /// <font color="#f36b2c">open access:</font> <a href="https://www.rkm-journal.de/archives/21851" target="_blank">https://www.rkm-journal.de/archives/21851</a>
+
+**Müller, P.** (2016). Review of „Digitaler Journalismus: Dynamik – Teilhabe – Technik“ (by Volker Lilienthal, Stephan Weichert, Dennis Reineck, Annika Sehl, & Silvia Worm). *Publizistik, 61*, 489-491. /// <a href="https://doi.org/10.1007/s11616-016-0293-5" target="_blank">https://doi.org/10.1007/s11616-016-0293-5</a>
+
+**Müller, P.** (2014). Review of „Naive Medientheorien und Third-Person Perception. Eine Untersuchung zur Integrierbarkeit beider Konzepte“ (by Thorsten Naab). *Publizistik, 59*, 225-227. /// <a href="https://doi.org/10.1007/s11616-014-0201-9" target="_blank">https://doi.org/10.1007/s11616-014-0201-9</a>
+
+## Contributions to Professional Journals
+
+**Müller, P.** (in press). Der Wert der Wertung. In M. Johann (ed.), Debatte: Wissenschaft als Beruf. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (69).
+
+**Müller, P.**, & Denner, N. (2018). Die Debatte: Postfaktizität. Eine Einleitung. In P. Müller & N. Denner (eds.), Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66), 3.  /// <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
