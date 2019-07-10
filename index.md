@@ -4,9 +4,9 @@ layout: default
 
 <span style="font-size:14pt">Home /// [CV](./cv.html) /// [Publications](./publications.html)</span>
 
-## Welcome to my Website!
+# Welcome to my Website!
 
-This page will give you can an overview of my academic work. Most importantly, I would like to draw your attention to the fact that the [publications list] (./publications.html) features links to openly accessible versions of many of my publications.
+This page will give you an overview of my academic work. Most importantly, I would like to draw your attention to the fact that the [publications list](./publications.html) features links to openly accessible versions of many of my publications.
 
 ## Research Interests
 
