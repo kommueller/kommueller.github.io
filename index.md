@@ -14,7 +14,7 @@ layout: default
 
 ## Education
 
-*2015* /// **PhD in Communication**
+*2015* /// **PhD in Communication (Major) & Political Science (Minor)**
 <br>*Ludwig-Maximilians University Munich, Germany*
 <br>summa cum laude
 
