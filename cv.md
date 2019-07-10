@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="font-size:14pt">[Home](./home.html) /// CV /// [Publications](./publications.html)</span>
+<span style="font-size:14pt">[Home](./index.html) /// CV /// [Publications](./publications.html)</span>
 
 ## Education
 
