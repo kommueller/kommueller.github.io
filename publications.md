@@ -64,11 +64,11 @@ Scherr, S., **Müller, P.**, & Fast, V. (2013). Do third-person perceptions ampl
 
 **Müller, P.**, & Hohlfeld, R. (2013). Journalistische Vorstellungen von Medienwirkungen. Dimensionen – Entstehungsbedingungen – Folgen. *Medien & Kommunikationswissenschaft, 61*, 166-182. /// <a href="https://doi.org/10.5771/1615-634x-2013-2-166" target="_blank">https://doi.org/10.5771/1615-634x-2013-2-166</a> /// <font color="#f36b2c">open access:</font> <a href="http://www.m-und-k.nomos.de/fileadmin/muk/doc/Aufsatz_MuK_13_02.pdf" target="_blank">http://www.m-und-k.nomos.de/fileadmin/muk/doc/Aufsatz_MuK_13_02.pdf</a>
 
-Scherr, S., **Müller, P.**, & Fast, V. (2013). Single comments or average ratings: Which ele-ments of RateMyProfessors.com shape university students’ judgments and course choice intentions? *Educational Assessment, Evaluation and Accountability, 25*, 131-141. /// <a href="https://doi.org/10.1007/s11092-013-9164-z" target="_blank">https://doi.org/10.1007/s11092-013-9164-z</a>
+Scherr, S., **Müller, P.**, & Fast, V. (2013). Single comments or average ratings: Which elements of RateMyProfessors.com shape university students’ judgments and course choice intentions? *Educational Assessment, Evaluation and Accountability, 25*, 131-141. /// <a href="https://doi.org/10.1007/s11092-013-9164-z" target="_blank">https://doi.org/10.1007/s11092-013-9164-z</a>
 
 **Müller, P.** (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831" target="_blank">https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831</a>
 
-## Chapters in Handbooks & Encyclopedias
+## Chapters in Handbooks & Encyclopedia Entries
 
 **Müller, P.**, & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Hoboken, NJ: Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
 
@@ -94,11 +94,11 @@ Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing s
 
 **Müller, P.** (2015). Kognitive und affektive Barrieren bei der Kommunikation politischer Reformen. In R. Fröhlich & T. Koch (eds.), *Politik – PR – Persuasion. Strukturen, Funktionen und Wirkungen politischer Öffentlichkeitsarbeit* (pp. 171-191). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-01683-8_9" target="_blank">https://doi.org/10.1007/978-3-658-01683-8_9</a>
 
-Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispie-len in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezepti-ons- und Wirkungsforschung* (pp. 317-334). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
+Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispielen in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezepti-ons- und Wirkungsforschung* (pp. 317-334). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
 
 **Müller, P.**, Scherr, S., & Fast, V. (2013). Der Einfluss wahrgenommener Medienwirkungen auf die Verarbeitung von Fallbeispielen. In O. Jandura, A. Fahr, & H.-B. Brosius (eds.), *Theorieanpassungen in der digitalen Medienwelt* (pp. 141-158). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845242682-141" target="_blank">https://doi.org/10.5771/9783845242682-141</a>
 
-**Müller, P.** (2010). Das Legitimationsproblem des öffentlich-rechtlichen Rundfunks im Zeit-alter der Medienkonvergenz. In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 172-193). Berlin: Lit.
+**Müller, P.** (2010). Das Legitimationsproblem des öffentlich-rechtlichen Rundfunks im Zeitalter der Medienkonvergenz. In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 172-193). Berlin: Lit.
 
 Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (2010). Der Crossmedia-Zug rollt. Wer oder was bleibt auf der Strecke? In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 11-18). Berlin: Lit.
 
