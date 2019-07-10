@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="font-size:14pt">CV /// [Publications](./publications.html) ///  [Talks](./talks.html)</span>
+<span style="font-size:14pt">CV /// [Publications](./publications.html)</span>
 
 ## Research Interests
 
@@ -57,7 +57,7 @@ layout: default
 * Top Poster 2015 of ICA's Mass Communication Division
 * Best Paper Award 2011 of DGPuK's Media Reception and Effects Division
 
-## Activities in the Academic Community
+## Services to the Academic Community
 
 * Reviewer for national & international conferences & journals (e.g., *Communication Research*, *Information, Communication & Society*, *Journal of Communication*, *New Media & Society*, *Public Opinion Quarterly*)
 * Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
