@@ -16,7 +16,7 @@ This page will give you an overview of my academic work. Most importantly, I wou
 * Media change & innovation
 * Quantitative methods
 
-## Recent Publications
+## Selected Recent Publications
 
 Müller, P. (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
 
