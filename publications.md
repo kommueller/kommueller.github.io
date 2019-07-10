@@ -16,6 +16,6 @@ Koch, T., Peter, C., & **Müller, P.** (2019). *Das Experiment in der Kommunikat
 
 **Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., in press). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
-**Müller, P.**, & Denner, N. (eds., 2018). Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66). | <span style:"color:#f36b2c">open access:</span> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
+**Müller, P.**, & Denner, N. (eds., 2018). Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66). | <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
 
 Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (eds., 2010). *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis.* Berlin: Lit. (2nd edition, 2013)
