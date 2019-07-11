@@ -6,7 +6,7 @@ layout: default
 
 # Welcome to my Website!
 
-This page will give you an overview of my academic work. Most importantly, I would like to draw your attention to the fact that the [publications list](./publications.html) features links to openly accessible versions of many of my publications.
+This page will give you an overview of my academic work. Most importantly, you can find links to openly accessible versions of many of my publications in the [publications list](./publications.html).
 
 ## Research Interests
 
