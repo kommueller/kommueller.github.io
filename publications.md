@@ -106,7 +106,7 @@ Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (2010). Der Crossmedia-
 
 ## Reports & Working Papers
 
-**Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [englisch translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
+**Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [english translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
 
 **Müller, P.**, & Denner, N. (2019). *Was tun gegen Fake News? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet* (2nd, fully revised edition). Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/792" target="_blank">https://shop.freiheit.org/#!/Publikation/792</a>
 
