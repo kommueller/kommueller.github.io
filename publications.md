@@ -68,7 +68,7 @@ Scherr, S., **Müller, P.**, & Fast, V. (2013). Single comments or average ratin
 
 **Müller, P.** (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831" target="_blank">https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831</a>
 
-## Chapters in Handbooks & Encyclopedia Entries
+## Handbook Chapters & Encyclopedia Entries
 
 **Müller, P.**, & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Hoboken, NJ: Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
 
@@ -78,7 +78,7 @@ Schemer, C., & **Müller, P.** (2017). Europe: Representations of ethnic minorit
 
 **Müller, P.** (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
-## Chapters in Edited Volumes & Online Collections
+## Contributions to Edited Volumes & Online Collections
 
 Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
