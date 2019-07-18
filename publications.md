@@ -22,9 +22,11 @@ Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (eds., 2010). *Crossmed
 
 ## Journal Articles
 
-**Müller, P.**, & Schulz, A. (accepted). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media.*
+**Müller, P.**, & Schulz, A. (accepted). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society*.
 
-Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (accepted). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research.*
+**Müller, P.**, & Schulz, A. (accepted). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media*.
+
+Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (accepted). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research*.
 
 Wettstein, M., Esser, F., Büchel, F., Schemer, C., Wirz, D. S., Schulz, A., Ernst, N., Engesser, S., **Müller, P.**, & Wirth, W. (2019). What drives populist styles? Analyzing immigration and labor market news in 11 countries. *Journalism & Mass Communication Quarterly, 96*, 516-536. /// <a href="https://doi.org/10.1177/1077699018805408" target="_blank">https://doi.org/10.1177/1077699018805408</a>
 
@@ -44,7 +46,7 @@ Schindler, J., & **Müller, P.** (2018). Design follows politics? The visualizat
 
 Schindler, J., Krämer, B., & **Müller, P.** (2017). Looking left or looking right? Effects of newspaper layout style on the perception of political news. *European Journal of Communication, 32*, 348-366. /// <a href="https://doi.org/10.1177/0267323117718463" target="_blank">https://doi.org/10.1177/0267323117718463</a>
 
-Schäfer, S., Sülflow, M., & **Müller, P.** (2017). The special taste of snack news: An application of niche theory to understand the appeal of Facebook as a news source. *First Monday, 22.* /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5210/fm.v22i4.7431" target="_blank">https://doi.org/10.5210/fm.v22i4.7431</a>
+Schäfer, S., Sülflow, M., & **Müller, P.** (2017). The special taste of snack news: An application of niche theory to understand the appeal of Facebook as a news source. *First Monday, 22*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5210/fm.v22i4.7431" target="_blank">https://doi.org/10.5210/fm.v22i4.7431</a>
 
 Scherr, S., & **Müller, P.** (2017). How perceived persuasive intent and reactance contribute to third-person perceptions: Evidence from two experiments. *Mass Communication and Society, 20*, 315-335. /// <a href="https://doi.org/10.1080/15205436.2016.1250911" target="_blank">https://doi.org/10.1080/15205436.2016.1250911</a>
 
@@ -79,6 +81,8 @@ Schemer, C., & **Müller, P.** (2017). Europe: Representations of ethnic minorit
 **Müller, P.** (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
 ## Contributions to Edited Volumes & Online Collections
+
+Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., **Müller, P.**, Schemer, C., Wirth, W., & Esser, F. (in press). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research.* Baden-Baden: Nomos.
 
 Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
