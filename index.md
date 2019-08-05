@@ -11,9 +11,9 @@ This page will give you an overview of my academic work. Most importantly, you c
 ## Research Interests
 
 * Political communication, social identity, & societal cohesion
-* Perceptions & effects of news media
+* Perceptions, uses, & effects of news media
 * Digital news consumption
-* Media change & innovation
+* Social & psychological dynamics of media change & innovation
 * Quantitative methods
 
 ## Selected Recent Publications
