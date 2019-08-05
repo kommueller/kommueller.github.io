@@ -10,7 +10,7 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Research Interests
 
-* Political communication & societal cohesion
+* Political communication, social identity, & societal cohesion
 * Perceptions & effects of news media
 * Digital news consumption
 * Media change & innovation
