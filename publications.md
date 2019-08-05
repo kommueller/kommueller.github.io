@@ -22,11 +22,11 @@ Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (eds., 2010). *Crossmed
 
 ## Journal Articles
 
-**Müller, P.**, & Schulz, A. (accepted). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society*.
-
 **Müller, P.**, & Schulz, A. (accepted). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media*.
 
-Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (accepted). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research*.
+Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (2019). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research*. /// <a href="https://doi.org/10.1093/ijpor/edz018" target="_blank">https://doi.org/10.1093/ijpor/edz018</a>
+
+**Müller, P.**, & Schulz, A. (2019). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society*. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a>
 
 Wettstein, M., Esser, F., Büchel, F., Schemer, C., Wirz, D. S., Schulz, A., Ernst, N., Engesser, S., **Müller, P.**, & Wirth, W. (2019). What drives populist styles? Analyzing immigration and labor market news in 11 countries. *Journalism & Mass Communication Quarterly, 96*, 516-536. /// <a href="https://doi.org/10.1177/1077699018805408" target="_blank">https://doi.org/10.1177/1077699018805408</a>
 
