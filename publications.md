@@ -14,7 +14,7 @@ Koch, T., Peter, C., & **Müller, P.** (2019). *Das Experiment in der Kommunikat
 
 ## Editions
 
-**Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., in press). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+**Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
 **Müller, P.**, & Denner, N. (eds., 2018). Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66). /// <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
 
@@ -84,9 +84,9 @@ Schemer, C., & **Müller, P.** (2017). Europe: Representations of ethnic minorit
 
 Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., **Müller, P.**, Schemer, C., Wirth, W., & Esser, F. (in press). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research.* Baden-Baden: Nomos.
 
-Schemer, C., Geiß, S., & **Müller, P.** (in press). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+Schemer, C., Geiß, S., & **Müller, P.** (2019). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds., pp. 262-285), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
-**Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (in press). Die Dynamik öffentlicher Kommunikationsprozesse als Herausforderung für die empirische Forschung. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+**Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (2019). Die Dynamik öffentlicher Kommunikationsprozesse als Herausforderung für die empirische Forschung. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds., pp. 9-17), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
 **Müller, P.** (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
 
