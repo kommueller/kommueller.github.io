@@ -130,6 +130,6 @@ Wirth, W., Esser, F., Wettstein, M., Engesser, S., Wirz, D., Schulz, A., Ernst, 
 
 ## Contributions to Professional Journals
 
-**Müller, P.** (in press). Der Wert der Wertung. In M. Johann (ed.), Debatte: Wissenschaft als Beruf. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (69).
+**Müller, P.** (2019). Der Wert der Wertung. In M. Johann (ed.), Debatte: Wissenschaft als Beruf. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (69), 7.  /// <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso_69_02-2019.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso_69_02-2019.pdf</a>
 
 **Müller, P.**, & Denner, N. (2018). Die Debatte: Postfaktizität. Eine Einleitung. In P. Müller & N. Denner (eds.), Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66), 3.  /// <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
