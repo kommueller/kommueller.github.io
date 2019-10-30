@@ -42,13 +42,13 @@ layout: default
 
 ## Awards & Distinctions
 
-* Best Proposal Award 2018 of DGPuK's Communication and Politics Division
-* The Kaid Sanders Best Article of the Year Award 2017 of ICA's Political Communication Division
-* Top Paper Award 2016/2017 of the journal *SCM – Studies in Communication and Media*
-* Top Reviewer 2017 of the journal *Journalism & Mass Communication Quarterly*
-* Best Proposal Award 2017 of DGPuK's Media Reception and Effects Division
-* Top Poster 2015 of ICA's Mass Communication Division
-* Best Paper Award 2011 of DGPuK's Media Reception and Effects Division
+* Best Proposal Award 2018 from DGPuK's Communication and Politics Division
+* The Kaid Sanders Best Article of the Year Award 2017 from ICA's Political Communication Division
+* Top Paper Award 2016/2017 from the journal *SCM – Studies in Communication and Media*
+* Top Reviewer 2017 from the journal *Journalism & Mass Communication Quarterly*
+* Best Proposal Award 2017 from DGPuK's Media Reception and Effects Division
+* Top Poster 2015 from ICA's Mass Communication Division
+* Best Paper Award 2011 from DGPuK's Media Reception and Effects Division
 
 ## Services to the Academic Community
 
