@@ -114,7 +114,7 @@ Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (2010). Der Crossmedia-
 
 **Müller, P.**, & Denner, N. (2019). *Was tun gegen Fake News? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet* (2nd, fully revised edition). Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/792" target="_blank">https://shop.freiheit.org/#!/Publikation/792</a>
 
-**Müller, P.**, & Denner, N. (2017). *Was tun gegen "Fake News"? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet.* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://www.freiheit.org/sites/default/files/uploads/2017/06/16/a4fakenews.pdf" target="_blank">https://www.freiheit.org/sites/default/files/uploads/2017/06/16/a4fakenews.pdf</a>
+**Müller, P.**, & Denner, N. (2017). *Was tun gegen "Fake News"? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet.* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit.
 
 Wirth, W., Schemer, C., Schulz, A., Wettstein, M., Wirz, D. S., & **Müller, P.** (2017). *A Multi-Dimensional Measure to Assess Populist Attitudes in the Public in Eight Languages* (NCCR Democracy Working Paper No. 87). Zürich: NCCR Democracy. /// <font color="#f36b2c">open access:</font> <a href="http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp87.pdf" target="_blank">http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp87.pdf</a>
 
