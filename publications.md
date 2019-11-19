@@ -106,7 +106,7 @@ Fast, V., **Müller, P.**, & Scherr, S. (2014). Der kombinierte Einsatz von Date
 
 Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (2010). Der Crossmedia-Zug rollt. Wer oder was bleibt auf der Strecke? In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 11-18). Berlin: Lit.
 
-**Müller, P.** (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Poli-tische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
+**Müller, P.** (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Politische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
 
 ## Reports & Working Papers
 
