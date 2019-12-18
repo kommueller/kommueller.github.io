@@ -60,5 +60,5 @@ layout: default
 ## Knowledge Transfer
 
 * Author of expert's reports (commissioned by, e.g., Bundeszentrale für politische Bildung, DW Akademie, Friedrich-Naumann-Stiftung für die Freiheit)
-* Media appearances (e.g., Deutschlandfunk, Ö1, Süddeutsche Zeitung, Frankfurter Allgemeine Zeitung, Welt am Sonntag, ZDF, SWR Fernsehen)
+* Media appearances (e.g., Deutschlandfunk, Ö1, MDRinfo, Süddeutsche Zeitung, Frankfurter Allgemeine Zeitung, taz, Welt am Sonntag, ZDF, ZDFinfo, SWR Fernsehen)
 * Expert talks, keynotes, & panel discussions (invited by, e.g., Alexander-von-Humboldt-Stiftung, Facebook Journalism Project, Bündnis 90/Die Grünen Rheinland-Pfalz, Landesanstalt für Medien NRW, Jugend- und Sozialamt Frankfurt a. M., Verband unabhängiger Musikunternehmer*innen)
