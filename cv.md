@@ -52,13 +52,13 @@ layout: default
 
 ## Services to the Academic Community
 
-* Reviewer for national & international conferences & journals (e.g., *Communication Research*, *Information, Communication & Society*, *Journal of Communication*, *New Media & Society*, *Public Opinion Quarterly*)
+* Reviewer for numerous national & international journals & conferences (e.g., *Communication Research*, *Information, Communication & Society*, *International Journal of Public Opinion Research*, *Journal of Communication*, *Journal of Media Psychology*, *Journalism and Mass Communication Quarterly*, *Journalism: Theory, Practice & Criticism*, *Media Psychology*, *New Media & Society*,  *Public Opinion Quarterly*, *The International Journal of Press/Politics*)
 * Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
 * Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP), Netzwerk Medienstrukturen, & Team Populism
-* Functions in academic self-government (e.g., faculty council member, commissioner for the library of the Department of Communication at U Mainz, member of appointment, program admission, & teaching committees)
+* Numerous functions in academic self-government (e.g., chair of curricular reform commitee at U Mannheim, vice chair of examinations board at U Mannheim, faculty council member at U Mainz, library commissioner at U Mainz, member of appointment, program admission, & teaching committees)
 
 ## Knowledge Transfer
 
-* Author of expert reports (e.g., Bundeszentrale für politische Bildung, DW Akademie, Friedrich-Naumann-Stiftung für die Freiheit)
-* Media appearances (e.g., Deutschlandfunk, Süddeutsche Zeitung, ZDF, Welt am Sonntag)
-* Invited talks & panel discussions (e.g., Bündnis 90/Die Grünen Rheinland-Pfalz, Landesanstalt für Medien NRW, Jugend- und Sozialamt Frankfurt a. M.)
+* Author of expert's reports (commissioned by, e.g., Bundeszentrale für politische Bildung, DW Akademie, Friedrich-Naumann-Stiftung für die Freiheit)
+* Media appearances (e.g., Deutschlandfunk, Ö1, Süddeutsche Zeitung, Frankfurter Allgemeine Zeitung, Welt am Sonntag, ZDF, SWR Fernsehen)
+* Expert talks, keynotes, & panel discussions (invited by, e.g., Alexander-von-Humboldt-Stiftung, Facebook Journalism Project, Bündnis 90/Die Grünen Rheinland-Pfalz, Landesanstalt für Medien NRW, Jugend- und Sozialamt Frankfurt a. M., Verband unabhängiger Musikunternehmer*innen)
