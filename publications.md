@@ -22,7 +22,7 @@ Hohlfeld, R., **Müller, P.**, Richter, A., & Zacher, F. (eds., 2010). *Crossmed
 
 ## Journal Articles
 
-**Müller, P.**, & Schulz, A. (accepted). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media*.
+**Müller, P.**, & Schulz, A. (2019). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media, 8*, 547-559. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/2192-4007-2019-4-547" target="_blank">https://doi.org/10.5771/2192-4007-2019-4-547</a>
 
 Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (2019). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research*. /// <a href="https://doi.org/10.1093/ijpor/edz018" target="_blank">https://doi.org/10.1093/ijpor/edz018</a>
 
