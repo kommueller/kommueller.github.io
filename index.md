@@ -18,11 +18,11 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Selected Recent Publications
 
+**Müller, P.**, & Schulz, A. (2019). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media, 8*, 547-559. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/2192-4007-2019-4-547" target="_blank">https://doi.org/10.5771/2192-4007-2019-4-547</a>
+
 **Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
 **Müller, P.**, & Schulz, A. (2019). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society*. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a>
-
-**Müller, P.** (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
 
 **Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
 
