@@ -38,7 +38,7 @@ Wirz, D. S., Wettstein, M., Schulz, A., **Müller, P.**, Schemer, C., Ernst, N.,
 
 Schemer, C., Wirth, W., Wettstein, M., **Müller, P.**, Schulz, A., & Wirz, D. (2018). Wirkung populistischer Kommunikation. Populismus in den Medien, Wirkungen und deren Randbedingungen. *Communicatio Socialis, 51*, 118-130. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/0010-3497-2018-2-118" target="_blank">https://doi.org/10.5771/0010-3497-2018-2-118</a>
 
-Schulz, A., **Müller, P.**, Schemer, C., Wirz, D. S., Wettstein, M., & Wirth, W. (2018). Measuring populist attitudes on three dimensions. *International Journal of Public Opinion Research, 30*, 316–326. /// <a href="https://doi.org/10.1093/ijpor/edw037" target="_blank">https://doi.org/10.1093/ijpor/edw037</a> /// <font color="#f36b2c">open access:</font> <a href="https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edw037/2993904?guestAccessKey=8f742c4c-2b99-4e20-8a74-44f25f23becb" target="_blank">https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edw037/2993904?guestAccessKey=8f742c4c-2b99-4e20-8a74-44f25f23becb</a>
+Schulz, A., **Müller, P.**, Schemer, C., Wirz, D. S., Wettstein, M., & Wirth, W. (2018). Measuring populist attitudes on three dimensions. *International Journal of Public Opinion Research, 30*, 316–326. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1093/ijpor/edw037" target="_blank">https://doi.org/10.1093/ijpor/edw037</a>
 
 Schindler, J., & **Müller, P.** (2018). Design follows politics? The visualization of political orientation in newspaper page layout. *Visual Communication, 17*, 141–161. /// <a href="https://doi.org/10.1177/1470357217746812" target="_blank">https://doi.org/10.1177/1470357217746812</a>
 
