@@ -32,7 +32,7 @@ layout: default
 
 (20) Schulz, A., Wirth, W., & **Müller, P.** (2018). We are the people and you are fake news: A social identity approach to populist citizens’ false consensus and hostile media perceptions. *Communication Research.* /// <a href="https://doi.org/10.1177/0093650218794854" target="_blank">https://doi.org/10.1177/0093650218794854</a>
 
-(19) **Müller, P.**, Schmitt, J. B., & Krämer, B. (2018). Of rules and role models: How perceptions of parents’ mediation and modelling contribute to individuals’ media innovativeness. *Journal of Broadcasting & Electronic Media, 62*, 685-703. /// <a href="https://doi.org/10.1080/08838151.2018.1519569" target="_blank">https://doi.org/10.1080/08838151.2018.1519569</a>
+(19) **Müller, P.**, Schmitt, J. B., & Krämer, B. (2018). Of rules and role models: How perceptions of parents’ mediation and modelling contribute to individuals’ media innovativeness. *Journal of Broadcasting & Electronic Media, 62*, 685-703. /// <a href="https://doi.org/10.1080/08838151.2018.1519569" target="_blank">https://doi.org/10.1080/08838151.2018.1519569</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://osf.io/2x59t/" target="_blank">https://osf.io/2x59t/</a>
 
 (18) Wirz, D. S., Wettstein, M., Schulz, A., **Müller, P.**, Schemer, C., Ernst, N., Esser, F., & Wirth, W. (2018). The effects of right-wing populist communication on emotions and cognitions toward immigrants. *The International Journal of Press/Politics, 23*, 496-516. /// <a href="https://doi.org/10.1177/1940161218788956" target="_blank">https://doi.org/10.1177/1940161218788956</a>
 
@@ -42,7 +42,7 @@ layout: default
 
 (15) Schindler, J., & **Müller, P.** (2018). Design follows politics? The visualization of political orientation in newspaper page layout. *Visual Communication, 17*, 141–161. /// <a href="https://doi.org/10.1177/1470357217746812" target="_blank">https://doi.org/10.1177/1470357217746812</a>
 
-(14) **Müller, P.**, Schemer, C., Wettstein, M., Schulz, A., Wirz, D. S., Engesser, S., & Wirth, W. (2017). The polarizing impact of news coverage on populist attitudes in the public: Evidence from a panel study in four European democracies. *Journal of Communication, 67*, 968–992. /// <a href="https://doi.org/10.1111/jcom.12337" target="_blank">https://doi.org/10.1111/jcom.12337</a> /// <font color="#f36b2c">open access:</font> <a href="https://academic.oup.com/joc/article/67/6/968/4753841?guestAccessKey=794bd19e-d1e3-44cc-817f-e2a6e0113ef8" target="_blank">https://academic.oup.com/joc/article/67/6/968/4753841?guestAccessKey=794bd19e-d1e3-44cc-817f-e2a6e0113ef8</a>
+(14) **Müller, P.**, Schemer, C., Wettstein, M., Schulz, A., Wirz, D. S., Engesser, S., & Wirth, W. (2017). The polarizing impact of news coverage on populist attitudes in the public: Evidence from a panel study in four European democracies. *Journal of Communication, 67*, 968–992. /// <a href="https://doi.org/10.1111/jcom.12337" target="_blank">https://doi.org/10.1111/jcom.12337</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://osf.io/nf5kx/" target="_blank">https://osf.io/nf5kx/</a>
 
 (13) Schindler, J., Krämer, B., & **Müller, P.** (2017). Looking left or looking right? Effects of newspaper layout style on the perception of political news. *European Journal of Communication, 32*, 348-366. /// <a href="https://doi.org/10.1177/0267323117718463" target="_blank">https://doi.org/10.1177/0267323117718463</a>
 
