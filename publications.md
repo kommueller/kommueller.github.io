@@ -30,7 +30,7 @@ layout: default
 
 (21) Wettstein, M., Esser, F., Büchel, F., Schemer, C., Wirz, D. S., Schulz, A., Ernst, N., Engesser, S., **Müller, P.**, & Wirth, W. (2019). What drives populist styles? Analyzing immigration and labor market news in 11 countries. *Journalism & Mass Communication Quarterly, 96*, 516-536. /// <a href="https://doi.org/10.1177/1077699018805408" target="_blank">https://doi.org/10.1177/1077699018805408</a>
 
-(20) Schulz, A., Wirth, W., & **Müller, P.** (2018). We are the people and you are fake news: A social identity approach to populist citizens’ false consensus and hostile media perceptions. *Communication Research.* /// <a href="https://doi.org/10.1177/0093650218794854" target="_blank">https://doi.org/10.1177/0093650218794854</a>
+(20) Schulz, A., Wirth, W., & **Müller, P.** (2018). We are the people and you are fake news: A social identity approach to populist citizens’ false consensus and hostile media perceptions. *Communication Research.* /// <a href="https://doi.org/10.1177/0093650218794854" target="_blank">https://doi.org/10.1177/0093650218794854</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://doi.org/10.5167/uzh-158179" target="_blank">https://doi.org/10.5167/uzh-158179</a>
 
 (19) **Müller, P.**, Schmitt, J. B., & Krämer, B. (2018). Of rules and role models: How perceptions of parents’ mediation and modelling contribute to individuals’ media innovativeness. *Journal of Broadcasting & Electronic Media, 62*, 685-703. /// <a href="https://doi.org/10.1080/08838151.2018.1519569" target="_blank">https://doi.org/10.1080/08838151.2018.1519569</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://osf.io/2x59t/" target="_blank">https://osf.io/2x59t/</a>
 
