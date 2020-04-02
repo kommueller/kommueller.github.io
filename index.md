@@ -10,20 +10,21 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Research Interests
 
-* Political communication, social identity, & societal cohesion
-* Perceptions, uses, & effects of news media
+* Political communication & populism
 * Digital news consumption
+* News processing & effects
 * Social & psychological dynamics of media change & innovation
-* Quantitative methods
 
-## Selected Recent Publications
+## News
 
-**Müller, P.**, & Schulz, A. (2019). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media, 8*, 547-559. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/2192-4007-2019-4-547" target="_blank">https://doi.org/10.5771/2192-4007-2019-4-547</a>
+**25/03/2020 /// Paper accepted for ECREA 2020 in Braga**
+My paper "You shall know them by their private life? How (inconsistent) private portrayals affect the evaluation of populist politicians", co-authored with Nora Denner, was accepted for presentation at this year's ECREA conference in Braga. Let's hope we will be able to present our work there in person in October.
 
-**Müller, P.**, Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+**17/03/2020 /// 833k grant for project on Responsible News Recommender Systems (ReNewRS)**
+Together with Heiko Paulheim (web science, U Mannheim), Harald Sack (FIZ Karlsruhe), and Christof Weinhardt (business informatics, KIT Karlsruhe) I just received an 833k grant by *Baden-Württemberg-Stiftung* to investigate the effects of news recommender systems on opinion formation. The project will start later this year. Look out for our job openings. One of four PhDs will work under my supervision.
 
-**Müller, P.**, & Schulz, A. (2019). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society*. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a>
+**11/03/2020 Covid-19: Teaching Will continue online**
+As of today, U Mannheim suspended all classes until the end of April. My teaching will continue online. I will provide online materials, exercises, and regular podcasts for my data analysis students and will try to organize my online experiment class using virtual meetings.
 
-**Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
-
-Koch, T., Peter, C., & **Müller, P.** (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
+**10/02/2020 Start of term**
+Today marks the start of term at U Mannheim. I will be teaching three classes: (1) *Statistics and Data Analysis with R* (BA), (2) *Advanced Data Analysis with R* (MA), and (3) *Online Experiment: Algorithmic Transparency* (BA).
