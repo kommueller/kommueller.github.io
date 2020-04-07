@@ -4,7 +4,7 @@ layout: default
 
 <span style="font-size:14pt">[Home](./index.html) /// CV /// [Publications](./publications.html)</span>
 
-## Education
+## Qualification
 
 *2015* /// **PhD in Communication (Major) & Political Science (Minor)**
 <br>*Ludwig-Maximilians University Munich, Germany*
