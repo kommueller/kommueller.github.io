@@ -43,12 +43,12 @@ layout: default
 ## Grants & Funding
 
 *2020 to 2023* /// **Responsible News Recommender Systems (ReNewRS)**
-<br>Research grant awarded to Heiko Paulheim, **Philipp Müller**, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung*; **833,000 €**
+<br>Research grant awarded to Heiko Paulheim, Philipp Müller, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung*; **833,000 €**
 
 *2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews**
-<br>Research grant awarded to **Philipp Müller** and Christian Schemer by the *Research Center on Media Convergence at U Mainz*; **15,000 €**
+<br>Research grant awarded to Philipp Müller and Christian Schemer by the *Research Center on Media Convergence at U Mainz*; **15,000 €**
 
-Additionally: Numerous travel, teaching, and minor research grants adding to a total of approx. **40,000 €**
+*Additionally* /// Numerous travel, teaching, and minor research grants adding to a total of approx. **40,000 €**
 
 ## Awards & Distinctions
 
