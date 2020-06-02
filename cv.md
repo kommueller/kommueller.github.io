@@ -46,19 +46,19 @@ layout: default
 <br>Research grant awarded to Heiko Paulheim, Philipp Müller, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung*; **833,000 €**
 
 *2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews**
-<br>Research grant awarded to Philipp Müller and Christian Schemer by the *Research Center on Media Convergence at U Mainz*; **15,000 €**
+<br>Research grant awarded to Philipp Müller & Christian Schemer by the *Research Center on Media Convergence at U Mainz*; **15,000 €**
 
 *Additionally* /// Numerous travel, teaching, and minor research grants adding to a total of approx. **40,000 €**
 
 ## Awards & Distinctions
 
-* Best Proposal Award 2018 from DGPuK's Communication and Politics Division
-* The Kaid Sanders Best Article of the Year Award 2017 from ICA's Political Communication Division
-* Top Paper Award 2016/2017 from the journal *SCM – Studies in Communication and Media*
-* Top Reviewer 2017 from the journal *Journalism & Mass Communication Quarterly*
-* Best Proposal Award 2017 from DGPuK's Media Reception and Effects Division
-* Top Poster 2015 from ICA's Mass Communication Division
-* Best Paper Award 2011 from DGPuK's Media Reception and Effects Division
+* Best Proposal Award 2018, DGPuK Communication and Politics Division
+* The Kaid Sanders Best Article of the Year Award 2017, ICA Political Communication Division
+* Top Paper Award 2016/2017, *SCM – Studies in Communication and Media*
+* Top Reviewer 2017, *Journalism & Mass Communication Quarterly*
+* Best Proposal Award 2017, DGPuK Media Reception and Effects Division
+* Top Poster 2015, ICA Mass Communication Division
+* Best Article Award 2011, DGPuK Media Reception and Effects Division
 
 ## Services to the Academic Community
 
