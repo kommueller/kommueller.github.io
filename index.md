@@ -4,7 +4,7 @@ layout: default
 
 <span style="font-size:14pt">Home /// [CV](./cv.html) /// [Publications](./publications.html)</span>
 
-# Welcome to my website!
+# Welcome to my Website!
 
 This page will give you an overview of my academic work. Most importantly, you can find links to openly accessible versions of many of my publications in the [publications list](./publications.html).
 
