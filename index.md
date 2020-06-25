@@ -8,12 +8,13 @@ layout: default
 
 This page will give you an overview of my academic work. Most importantly, you can find links to openly accessible versions of many of my publications in the [publications list](./publications.html).
 
-## Research Interests
+## Focus in Research & Teaching
 
 * Political communication & populism
 * Digital news consumption
 * News processing & effects
 * Social & psychological dynamics of media change & innovation
+* Quantitative methods
 
 ## News
 
