@@ -6,31 +6,49 @@ layout: default
 
 ## Qualification
 
-*2015* /// **PhD in Communication (Major) & Political Science (Minor)** /// *Ludwig-Maximilians University Munich, Germany* /// summa cum laude
+*2015* /// **PhD in Communication (Major) & Political Science (Minor)**
+<br>*Ludwig-Maximilians University Munich, Germany*
+<br>summa cum laude
 
-*2010* /// **M.A. in Media and Communication** /// *University of Passau, Germany*
+*2010* /// **M.A. in Media and Communication**
+<br>*University of Passau, Germany*
 
-*2008* /// **B.A. in Media and Communication** /// *University of Passau, Germany*
+*2008* /// **B.A. in Media and Communication**
+<br>*University of Passau, Germany*
 
 ## Academic Positions
 
-*since 2019* /// **Senior Lecturer** /// *University of Mannheim, Germany* /// Institute for Media and Communication Studies
+*since 2019* /// **Senior Lecturer**
+<br>*University of Mannheim, Germany*
+<br>Institute for Media and Communication Studies
 
-*2014 to 2019* /// **Postdoc** /// *Johannes Gutenberg University Mainz, Germany* /// Department of Communication
+*2014 to 2019* /// **Postdoc**
+<br>*Johannes Gutenberg University Mainz, Germany*
+<br>Department of Communication
 
-*2013* /// **Visiting Lecturer** /// *La Sapienza – University of Rome, Italy* /// Department of Communication and Social Sciences
+*2013* /// **Visiting Lecturer**
+<br>*La Sapienza – University of Rome, Italy*
+<br>Department of Communication and Social Sciences
 
-*2010 to 2014* /// **Research & Teaching Associate** /// *Ludwig-Maximilians University Munich, Germany* /// Department of Communication Studies and Media Research
+*2010 to 2014* /// **Research & Teaching Associate**
+<br>*Ludwig-Maximilians University Munich, Germany*
+<br>Department of Communication Studies and Media Research
 
-*2008 to 2010* /// **Student Research & Teaching Assistant** /// *University of Passau, Germany* /// Chair of Communication Studies /// Chair of Modern German Literary Studies /// Data Center
+*2008 to 2010* /// **Student Research & Teaching Assistant**
+<br>*University of Passau, Germany*
+<br>Chair of Communication Studies
+<br>Chair of Modern German Literary Studies
+<br>Data Center
 
 ## Grants & Funding
 
-*2020 to 2023* /// **Responsible News Recommender Systems (ReNewRS)** /// Research grant awarded to Heiko Paulheim, Philipp Müller, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
+*2020 to 2023* /// **Responsible News Recommender Systems (ReNewRS)**
+<br>Research grant awarded to Heiko Paulheim, Philipp Müller, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
 
-*2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews** /// >Research grant awarded to Philipp Müller & Christian Schemer by the *Research Center on Media Convergence at U Mainz* /// **15,000 €**
+*2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews**
+<br>Research grant awarded to Philipp Müller & Christian Schemer by the *Research Center on Media Convergence at U Mainz* /// **15,000 €**
 
-*Additionally* /// Numerous travel, teaching, and minor research grants /// Adding to a total of approx. **40,000 €**
+*Additionally* /// Numerous travel, teaching, and minor research grants adding to a total of approx. **40,000 €**
 
 ## Awards & Distinctions
 
