@@ -22,11 +22,11 @@ layout: default
 
 ## Journal Articles
 
-(24) Schulz, A., Wirth, W., & **Müller, P.** (2020). We are the people and you are fake news: A social identity approach to populist citizens’ false consensus and hostile media perceptions. *Communication Research, 47*, 201-226. /// <a href="https://doi.org/10.1177/0093650218794854" target="_blank">https://doi.org/10.1177/0093650218794854</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://doi.org/10.5167/uzh-158179" target="_blank">https://doi.org/10.5167/uzh-158179</a>
+(24) Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (2020). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research, 32*, 284–305. /// <a href="https://doi.org/10.1093/ijpor/edz018" target="_blank">https://doi.org/10.1093/ijpor/edz018</a>
 
-(23) **Müller, P.**, & Schulz, A. (2019). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media, 8*, 547-559. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/2192-4007-2019-4-547" target="_blank">https://doi.org/10.5771/2192-4007-2019-4-547</a>
+(23) Schulz, A., Wirth, W., & **Müller, P.** (2020). We are the people and you are fake news: A social identity approach to populist citizens’ false consensus and hostile media perceptions. *Communication Research, 47*, 201-226. /// <a href="https://doi.org/10.1177/0093650218794854" target="_blank">https://doi.org/10.1177/0093650218794854</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://doi.org/10.5167/uzh-158179" target="_blank">https://doi.org/10.5167/uzh-158179</a>
 
-(22) Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., **Müller, P.**, Wirz, D. S., & Wirth, W. (2019). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research*. /// <a href="https://doi.org/10.1093/ijpor/edz018" target="_blank">https://doi.org/10.1093/ijpor/edz018</a>
+(22) **Müller, P.**, & Schulz, A. (2019). Facebook or *Fake*book? How users’ perceptions of ‘fake news’ are related to their evaluation and verification of news on Facebook. *SCM – Studies in Communication and Media, 8*, 547-559. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/2192-4007-2019-4-547" target="_blank">https://doi.org/10.5771/2192-4007-2019-4-547</a>
 
 (21) **Müller, P.**, & Schulz, A. (2019). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society*. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a>
 
