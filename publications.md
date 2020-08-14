@@ -110,7 +110,9 @@ layout: default
 
 ## Reports & Working Papers
 
-(5) **Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [english translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
+(6) **Müller P.**, & Denner, N. (2020). *¿Qué hacer frente a las fake news?* [Spanish translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/911" target="_blank">https://shop.freiheit.org/#!/Publikation/911</a>
+
+(5) **Müller P.**, & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [English translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
 
 (4) **Müller, P.**, & Denner, N. (2019). *Was tun gegen Fake News? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet* (2nd, fully revised edition). Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/792" target="_blank">https://shop.freiheit.org/#!/Publikation/792</a>
 
