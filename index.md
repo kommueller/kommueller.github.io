@@ -12,9 +12,9 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 * Political communication & populism
 * Digital news consumption
-* Effects of news exposure on societal cohesion and democracy
-* Media perceptions and perceptual phenomena
+* News media's impact on societal cohesion & democracy
 * Social & psychological dynamics of media change & innovation
+* Consequences of users' perceptions of news media & media effects
 * Quantitative methods
 
 ## News
