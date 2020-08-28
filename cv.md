@@ -64,7 +64,7 @@ layout: default
 
 * Reviewer for numerous national & international journals & conferences (e.g., *Communication Research*, *Information, Communication & Society*, *International Journal of Public Opinion Research*, *Journal of Communication*, *Journal of Media Psychology*, *Journalism and Mass Communication Quarterly*, *Journalism: Theory, Practice & Criticism*, *Media Psychology*, *New Media & Society*,  *Public Opinion Quarterly*, *The International Journal of Press/Politics*)
 * Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
-* Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP), Netzwerk Medienstrukturen, & Team Populism
+* Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP) & Netzwerk Medienstrukturen
 * Numerous functions in academic self-government (e.g., chair of curricular reform commitee at U Mannheim, vice chair of examinations board at U Mannheim, faculty council member at U Mainz, library commissioner at U Mainz, member of appointment, program admission, & teaching committees)
 
 ## Knowledge Transfer
