@@ -42,7 +42,7 @@ layout: default
 
 ## Grants & Funding
 
-*2020 to 2023* /// **Responsible News Recommender Systems (ReNewRS)**
+*2020 to 2022* /// **Responsible News Recommender Systems (ReNewRS)**
 <br>Research grant awarded to Heiko Paulheim, Philipp Müller, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
 
 *2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews**
