@@ -42,6 +42,9 @@ layout: default
 
 ## Grants & Funding
 
+*2020* /// **Offener und versteckter Rassismus in der politischen und medialen Öffentlichkeit**
+<br>Research grant awarded to Chung-hong Chan, Alejandro Ecker, Michael Imre, Katharina Ludwig, Philipp Müller, Marius Sältzer, &  Hartmut Wessler by *Deutsches Zentrum für Integrations- und Migrationsforschung* / *Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)* /// **49,000 €**
+
 *2020 to 2022* /// **Responsible News Recommender Systems (ReNewRS)**
 <br>Research grant awarded to Heiko Paulheim, Philipp Müller, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
 
