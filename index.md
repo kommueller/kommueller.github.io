@@ -10,9 +10,9 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Focus in Research & Teaching
 
-* Political communication & populism
-* Digital news consumption & effects
-* News media's role for societal cohesion & democracy
+* Political communication & populism in democractic systems
+* News media's impact on societal cohesion
+* Digital news consumption & its effects
 * Social & psychological dynamics of media change & innovation
 * Quantitative methods
 
