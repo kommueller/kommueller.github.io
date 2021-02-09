@@ -42,7 +42,7 @@ layout: default
 
 (17) Schemer, C., Wirth, W., Wettstein, M., Müller, P., Schulz, A., & Wirz, D. (2018). Wirkung populistischer Kommunikation. Populismus in den Medien, Wirkungen und deren Randbedingungen. *Communicatio Socialis, 51*, 118-130. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/0010-3497-2018-2-118" target="_blank">https://doi.org/10.5771/0010-3497-2018-2-118</a>
 
-(16) Schulz, A., Müller, P., Schemer, C., Wirz, D. S., Wettstein, M., & Wirth, W. (2018). Measuring populist attitudes on three dimensions. *International Journal of Public Opinion Research, 30*, 316–326. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1093/ijpor/edw037" target="_blank">https://doi.org/10.1093/ijpor/edw037</a>
+(16) Schulz, A., Müller, P., Schemer, C., Wirz, D. S., Wettstein, M., & Wirth, W. (2018). Measuring populist attitudes on three dimensions. *International Journal of Public Opinion Research, 30*, 316–326. /// <a href="https://doi.org/10.1093/ijpor/edw037" target="_blank">https://doi.org/10.1093/ijpor/edw037</a>
 
 (15) Schindler, J., & Müller, P. (2018). Design follows politics? The visualization of political orientation in newspaper page layout. *Visual Communication, 17*, 141–161. /// <a href="https://doi.org/10.1177/1470357217746812" target="_blank">https://doi.org/10.1177/1470357217746812</a>
 
@@ -72,7 +72,7 @@ layout: default
 
 (2) Scherr, S., Müller, P., & Fast, V. (2013). Single comments or average ratings: Which elements of RateMyProfessors.com shape university students’ judgments and course choice intentions? *Educational Assessment, Evaluation and Accountability, 25*, 131-141. /// <a href="https://doi.org/10.1007/s11092-013-9164-z" target="_blank">https://doi.org/10.1007/s11092-013-9164-z</a>
 
-(1) Müller, P. (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831" target="_blank">https://nbn-resolving.de/urn:nbn:de:hebis:77-publ-577831</a>
+(1) Müller, P. (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="http://doi.org/10.25358/openscience-491" target="_blank">http://doi.org/10.25358/openscience-491</a>
 
 ## Handbook Chapters & Encyclopedia Entries
 
