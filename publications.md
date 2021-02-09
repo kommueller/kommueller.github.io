@@ -24,7 +24,7 @@ layout: default
 
 (26) Müller, P., & Denner, N. (accepted). Populist words speak louder? Ideology-inconsistent personalization and voting for populist candidates. *International Journal of Public Opinion Research*.
 
-(25) Schemer, C., Masur, P. K., Geiß, S., Müller, P., & Schäfer, S. (2020). The impact of Internet and social media use on well-being: A longitudinal analysis of adolescents across nine years. *Journal of Computer-Mediated Communication*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1093/jcmc/zmaa014" target="_blank">https://doi.org/10.1093/jcmc/zmaa014</a>
+(25) Schemer, C., Masur, P. K., Geiß, S., Müller, P., & Schäfer, S. (2021). The impact of Internet and social media use on well-being: A longitudinal analysis of adolescents across nine years. *Journal of Computer-Mediated Communication, 26*, 1–21. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1093/jcmc/zmaa014" target="_blank">https://doi.org/10.1093/jcmc/zmaa014</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/fdp39/" target="_blank">https://osf.io/fdp39/</a>
 
 (24) Wettstein, M., Schulz, A., Steenbergen, M., Schemer, C., Müller, P., Wirz, D. S., & Wirth, W. (2020). Measuring populism across nations: Testing for measurement invariance of an inventory of populist attitudes. *International Journal of Public Opinion Research, 32*, 284–305. /// <a href="https://doi.org/10.1093/ijpor/edz018" target="_blank">https://doi.org/10.1093/ijpor/edz018</a>
 
