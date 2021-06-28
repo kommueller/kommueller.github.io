@@ -22,7 +22,7 @@ layout: default
 
 ## Journal Articles
 
-(26) Müller, P., & Denner, N. (accepted). Populist words speak louder? Ideology-inconsistent personalization and voting for populist candidates. *International Journal of Public Opinion Research*.
+(26) Müller, P., & Denner, N. (2021). Populist words speak louder? Ideology-inconsistent personalization and voting for populist candidates. *International Journal of Public Opinion Research*. /// <a href="https://doi.org/10.1093/ijpor/edaa042" target="_blank">https://doi.org/10.1093/ijpor/edaa042</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/scfw5/" target="_blank">https://osf.io/scfw5/</a>
 
 (25) Müller, P., & Schulz, A. (2021). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society, 24*, 277-293. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a>
 
