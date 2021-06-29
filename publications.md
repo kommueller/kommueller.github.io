@@ -14,6 +14,8 @@ layout: default
 
 ## Editions
 
+(4) Krämer, B., & Müller, P. (in prep. for 2022). *Questions of Media Change and Contiunity.* Baden-Baden: Nomos.
+
 (3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
 (2) Müller, P., & Denner, N. (eds., 2018). Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66). /// <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
@@ -22,9 +24,11 @@ layout: default
 
 ## Journal Articles
 
+(27) Müller, P., & Bach, R. L. (accepted). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. *New Media & Society*.
+
 (26) Müller, P., & Denner, N. (2021). Populist words speak louder? Ideology-inconsistent personalization and voting for populist candidates. *International Journal of Public Opinion Research*. /// <a href="https://doi.org/10.1093/ijpor/edaa042" target="_blank">https://doi.org/10.1093/ijpor/edaa042</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/scfw5/" target="_blank">https://osf.io/scfw5/</a>
 
-(25) Müller, P., & Schulz, A. (2021). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society, 24*, 277-293. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a>
+(25) Müller, P., & Schulz, A. (2021). Alternative media for a populist audience? Exploring political and media use predictors of exposure to Breitbart, Sputnik, and Co. *Information, Communication and Society, 24*, 277-293. /// <a href="https://doi.org/10.1080/1369118X.2019.1646778" target="_blank">https://doi.org/10.1080/1369118X.2019.1646778</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="https://doi.org/10.31235/osf.io/gvb39" target="_blank">https://doi.org/10.31235/osf.io/gvb39</a>
 
 (24) Schemer, C., Masur, P. K., Geiß, S., Müller, P., & Schäfer, S. (2021). The impact of Internet and social media use on well-being: A longitudinal analysis of adolescents across nine years. *Journal of Computer-Mediated Communication, 26*, 1–21. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1093/jcmc/zmaa014" target="_blank">https://doi.org/10.1093/jcmc/zmaa014</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/fdp39/" target="_blank">https://osf.io/fdp39/</a>
 

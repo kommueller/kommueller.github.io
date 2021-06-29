@@ -6,12 +6,12 @@ layout: default
 
 # Welcome to my Website!
 
-This page will give you an overview of my academic work. Most importantly, you can find links to openly access versions and open materials complementing many of my publications in the [publications list](./publications.html).
+This page will give you an overview of my academic work. Most importantly, you can find links to open access versions and open materials complementing many of my publications in the [publications list](./publications.html).
 
 ## Focus in Research & Teaching
 
-* Political communication & populism in democractic systems
-* News media's impact on societal cohesion
+* Political communication & populism
+* News media, social identity, and societal cohesion
 * Digital news consumption & its effects
 * Social & psychological dynamics of media change & innovation
 * Quantitative methods
