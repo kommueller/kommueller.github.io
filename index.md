@@ -6,7 +6,7 @@ layout: default
 
 # Welcome to my Website!
 
-This page will give you an overview of my academic work. Most importantly, you can find links to open access versions and open materials complementing many of my publications in the [publications list](./publications.html).
+This page will give you an overview of my academic work. Most importantly, you can find links to open access publications and open materials complementing my research in the [publications list](./publications.html).
 
 ## Focus in Research & Teaching
 
