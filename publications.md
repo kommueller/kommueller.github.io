@@ -14,7 +14,7 @@ layout: default
 
 ## Editions
 
-(4) Krämer, B., & Müller, P. (in prep. for 2022). *Questions of Media Change and Contiunity.* Baden-Baden: Nomos.
+(4) Krämer, B., & Müller, P. (in prep. for 2022). *Questions of Media Change and Continuity.* Baden-Baden: Nomos.
 
 (3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
