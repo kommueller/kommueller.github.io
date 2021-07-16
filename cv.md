@@ -45,7 +45,7 @@ layout: default
 *2020 to 2022* /// **Responsible News Recommender Systems (ReNewRS)** /// Research grant awarded to Philipp Müller, Heiko Paulheim, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
 
 *2020* /// **Offener und versteckter Rassismus in der politischen und medialen Öffentlichkeit**
-/// Research grant awarded to Chung-hong Chan, Alejandro Ecker, Michael Imre, Katharina Ludwig, Philipp Müller, Marius Sältzer, &  Hartmut Wessler by *Deutsches Zentrum für Integrations- und Migrationsforschung (DeZIM)* / *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* /// **49,000 €**
+/// Research grant awarded to Chung-hong Chan, Alejandro Ecker, Philipp Müller, Katharina Ludwig, &  Hartmut Wessler by *Deutsches Zentrum für Integrations- und Migrationsforschung (DeZIM)* / *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* /// **49,000 €**
 
 *2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews** /// Research grant awarded to Philipp Müller & Christian Schemer by the *Research Center on Media Convergence at U Mainz* /// **15,000 €**
 

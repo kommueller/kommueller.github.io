@@ -14,7 +14,7 @@ This page will give you an overview of my academic work. Most importantly, you c
 * News media, social identity, and societal cohesion
 * Digital news consumption & its effects
 * Social & psychological dynamics of media change & innovation
-* Quantitative methods
+* Quantitative and computational methods (and their triangulation)
 
 ## News
 
