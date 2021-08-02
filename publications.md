@@ -24,7 +24,7 @@ layout: default
 
 ## Journal Articles
 
-(27) Müller, P., & Bach, R. L. (accepted). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. *New Media & Society*.
+(27) Müller, P., & Bach, R. L. (2021). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. *New Media & Society*. <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448211032969" target="_blank">https://doi.org/10.1177/14614448211032969</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/67rwq/" target="_blank">https://osf.io/67rwq/</a>
 
 (26) Müller, P., & Denner, N. (2021). Populist words speak louder? Ideology-inconsistent personalization and voting for populist candidates. *International Journal of Public Opinion Research*. /// <a href="https://doi.org/10.1093/ijpor/edaa042" target="_blank">https://doi.org/10.1093/ijpor/edaa042</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/scfw5/" target="_blank">https://osf.io/scfw5/</a>
 
