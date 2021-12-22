@@ -14,7 +14,7 @@ layout: default
 
 ## Editions
 
-(4) Krämer, B., & Müller, P. (eds., in prep. for 2022). *Questions of Communicative Change and Continuity.* Baden-Baden: Nomos.
+(4) Krämer, B., & Müller, P. (eds., in prep. for 2022). *Questions of Communicative Change and Continuity.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
 
 (3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
@@ -23,6 +23,8 @@ layout: default
 (1) Hohlfeld, R., Müller, P., Richter, A., & Zacher, F. (eds., 2010). *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis.* Berlin: Lit. (2nd edition, 2013)
 
 ## Journal Articles
+
+(28) Schäfer, S., Müller, P., & Ziegele, M. (accepted). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*.
 
 (27) Müller, P., & Bach, R. L. (2021). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. *New Media & Society*. <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448211032969" target="_blank">https://doi.org/10.1177/14614448211032969</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/67rwq/" target="_blank">https://osf.io/67rwq/</a>
 
@@ -89,6 +91,8 @@ layout: default
 (1) Müller, P. (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
 ## Contributions to Edited Volumes & Online Collections
+
+(14) Ludwig, K., & Müller, P. (in prep. for 2022). Do social media promote political polarization? A structured literature review. In B. Krämer, & P. Müller (eds.). *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
 
 (13) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
