@@ -24,7 +24,7 @@ layout: default
 
 ## Journal Articles
 
-(28) Schäfer, S., Müller, P., & Ziegele, M. (accepted). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*.
+(28) Schäfer, S., Müller, P., & Ziegele, M. (accepted). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*. /// <font color="#f36b2c">open access</font>
 
 (27) Müller, P., & Bach, R. L. (2021). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. *New Media & Society*. <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448211032969" target="_blank">https://doi.org/10.1177/14614448211032969</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/67rwq/" target="_blank">https://osf.io/67rwq/</a>
 
