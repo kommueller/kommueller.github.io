@@ -42,7 +42,7 @@ layout: default
 
 ## Grants & Funding
 
-*2022 to 2024* /// **Impliziter und expliziter Rassismus in Nachrichtenmedien und sozialen Medien: Ausmaß und Wirkung** /// Research grant awarded to Chung-hong Chan, Philipp Müller, & Hartmut Wessler by *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* as part of the joint project *Forschungsverbund Diskriminierung und Rassismus (FoDiRa)* /// **375,000 €** 
+*2022 to 2024* /// **Impliziter und expliziter Rassismus in Nachrichtenmedien und sozialen Medien: Ausmaß und Wirkung** /// Research grant awarded to Chung-hong Chan, Philipp Müller, & Hartmut Wessler by *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* as part of the research alliance *Forschungsverbund Diskriminierung und Rassismus (FoDiRa)* /// **375,000 €** 
 
 *2020 to 2022* /// **Responsible News Recommender Systems (ReNewRS)** /// Research grant awarded to Philipp Müller, Heiko Paulheim, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
 

@@ -11,10 +11,10 @@ This page will give you an overview of my academic work. Most importantly, you c
 ## Focus in Research & Teaching
 
 * Political communication & populism
-* News media, social identity, and societal cohesion
+* News media, social identity, & societal cohesion
 * Digital news consumption & its effects
 * Social & psychological dynamics of media change & innovation
-* Quantitative and computational methods (and their triangulation)
+* (Triangulation of) quantitative & computational methods
 
 ## News
 
