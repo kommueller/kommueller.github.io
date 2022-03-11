@@ -22,7 +22,9 @@ layout: default
 
 (1) Hohlfeld, R., Müller, P., Richter, A., & Zacher, F. (eds., 2010). *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis.* Berlin: Lit. (2nd edition, 2013)
 
-## Journal Articles
+## Articles in Journals & Conference Proceedings
+
+(29) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. In tba (eds.), *WWW '22: Companion Proceedings of the Web Conference 2022*. ACM Digital Library.
 
 (28) Schäfer, S., Müller, P., & Ziegele, M. (2022). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*. /// <font color="#f36b2c">open access: </font> <a href="https://doi.org/10.1177/14614448211073059" target="_blank">https://doi.org/10.1177/14614448211073059</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/zyq4j/" target="_blank">https://osf.io/zyq4j/</a>
 
@@ -79,10 +81,6 @@ layout: default
 (2) Scherr, S., Müller, P., & Fast, V. (2013). Single comments or average ratings: Which elements of RateMyProfessors.com shape university students’ judgments and course choice intentions? *Educational Assessment, Evaluation and Accountability, 25*, 131-141. /// <a href="https://doi.org/10.1007/s11092-013-9164-z" target="_blank">https://doi.org/10.1007/s11092-013-9164-z</a>
 
 (1) Müller, P. (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="http://doi.org/10.25358/openscience-491" target="_blank">http://doi.org/10.25358/openscience-491</a>
-
-## Papers in Conference Proceedings
-
-(1) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. In tba (eds.), *WWW '22: Companion Proceedings of the Web Conference 2022*. ACM Digital Library.
 
 ## Handbook Chapters & Encyclopedia Entries
 
