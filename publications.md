@@ -80,6 +80,10 @@ layout: default
 
 (1) Müller, P. (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="http://doi.org/10.25358/openscience-491" target="_blank">http://doi.org/10.25358/openscience-491</a>
 
+## Papers in Conference Proceedings
+
+(1) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. In tba (eds.), *WWW '22: Companion Proceedings of the Web Conference 2022*. ACM Digital Library.
+
 ## Handbook Chapters & Encyclopedia Entries
 
 (4) Müller, P., & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Hoboken, NJ: Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
@@ -92,7 +96,7 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(14) Ludwig, K., & Müller, P. (in prep. for 2022). Do social media promote political polarization? A structured literature review. In B. Krämer, & P. Müller (eds.). *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
+(14) Ludwig, K., & Müller, P. (in prep. for 2022). Do social media promote political polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
 
 (13) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
