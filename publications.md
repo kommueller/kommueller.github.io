@@ -24,7 +24,8 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(29) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. In tba (eds.), *WWW '22: Companion Proceedings of the Web Conference 2022*. ACM Digital Library.
+(29) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. In tba (eds.), *WWW '22: Companion Proceedings of the Web Conference 2022*. ACM Digital Library. /// 
+<font color="#f36b2c">open access (preprint): </font> <a href="https://doi.org/10.48550/arXiv.2203.05824" target="_blank">https://doi.org/10.48550/arXiv.2203.05824</a>
 
 (28) Schäfer, S., Müller, P., & Ziegele, M. (2022). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*. /// <font color="#f36b2c">open access: </font> <a href="https://doi.org/10.1177/14614448211073059" target="_blank">https://doi.org/10.1177/14614448211073059</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/zyq4j/" target="_blank">https://osf.io/zyq4j/</a>
 
