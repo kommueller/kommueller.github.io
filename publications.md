@@ -24,9 +24,9 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(30) Müller, P., & Freudenthaler, R. (accepted). Right-wing, populist, controlled by foreign powers? Topic diversification and partisanship in the content structures of German-language alternative media. *Digital Journalism*.
+(30) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. *WWW '22: Companion Proceedings of the Web Conference 2022* /// <font color="#f36b2c">open access (preprint): </font> <a href="https://doi.org/10.48550/arXiv.2203.05824" target="_blank">https://doi.org/10.48550/arXiv.2203.05824</a>
 
-(29) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. *WWW '22: Companion Proceedings of the Web Conference 2022* /// <font color="#f36b2c">open access (preprint): </font> <a href="https://doi.org/10.48550/arXiv.2203.05824" target="_blank">https://doi.org/10.48550/arXiv.2203.05824</a>
+(29) Müller, P., & Freudenthaler, R. (2022). Right-wing, populist, controlled by foreign powers? Topic diversification and partisanship in the content structures of German-language alternative media. *Digital Journalism*. /// <a href="https://doi.org/10.1080/21670811.2022.2058972" target="_blank">https://doi.org/10.1080/21670811.2022.2058972</a>
 
 (28) Schäfer, S., Müller, P., & Ziegele, M. (2022). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*. /// <font color="#f36b2c">open access: </font> <a href="https://doi.org/10.1177/14614448211073059" target="_blank">https://doi.org/10.1177/14614448211073059</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/zyq4j/" target="_blank">https://osf.io/zyq4j/</a>
 
@@ -96,7 +96,7 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(14) Ludwig, K., & Müller, P. (in prep. for 2022). Do social media promote political polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
+(14) Ludwig, K., & Müller, P. (in prep. for 2022). Do social media use promote political mass polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
 
 (13) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
