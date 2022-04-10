@@ -96,7 +96,7 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(14) Ludwig, K., & Müller, P. (in prep. for 2022). Do social media use promote political mass polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
+(14) Ludwig, K., & Müller, P. (in prep. for 2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
 
 (13) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
