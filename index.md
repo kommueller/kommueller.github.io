@@ -10,7 +10,7 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Focus in Research & Teaching
 
-* Political communication & its effects on democracy & societal cohesion
+* Political communication & societal cohesion
     + Populist communication & democratic alienation
     + Alternative media
     + Construction & depiction of social groups
