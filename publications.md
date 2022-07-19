@@ -14,7 +14,7 @@ layout: default
 
 ## Editions
 
-(4) Krämer, B., & Müller, P. (eds., in prep. for 2022). *Questions of Communicative Change and Continuity.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
+(4) Krämer, B., & Müller, P. (eds., in prep. for 2022). *Questions of Communicative Change and Continuity. In Memory of WOlfram Peiser.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access</font>
 
 (3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
