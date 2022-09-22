@@ -24,7 +24,7 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(30) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (accepted). Towards analyzing the bias of news recommender systems using sentiment and stance detection. *WWW '22: Companion Proceedings of the Web Conference 2022* /// <font color="#f36b2c">open access (preprint): </font> <a href="https://doi.org/10.48550/arXiv.2203.05824" target="_blank">https://doi.org/10.48550/arXiv.2203.05824</a>
+(30) Alam, M., Iana, A., Grote, A., Ludwig, K., Müller, P., & Paulheim, H. (2022). Towards analyzing the bias of news recommender systems using sentiment and stance detection. *WWW '22: Companion Proceedings of the Web Conference 2022*, 448-457. /// <font color="#f36b2c">open access: </font> <a href="https://doi.org/10.1145/3487553.3524674" target="_blank">https://doi.org/10.1145/3487553.3524674</a>
 
 (29) Müller, P., & Freudenthaler, R. (2022). Right-wing, populist, controlled by foreign powers? Topic diversification and partisanship in the content structures of German-language alternative media. *Digital Journalism*. /// <a href="https://doi.org/10.1080/21670811.2022.2058972" target="_blank">https://doi.org/10.1080/21670811.2022.2058972</a>
 
