@@ -24,6 +24,8 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## News
 
+*23/11/2022* /// **Toot** /// Okay, okay. So you can now find me on Mastodon, too: <a href="https://sciences.social/@kommueller" target = "_blank">@kommueller@sciences.social</a>.
+
 *03/11/2022* /// **ICA panel on measuring racism in automated content analyses accepted** /// Even before the actual submission deadline for next year's ICA conference, I had a first submission success. A panel on "Advancing Racism Research with Big Data?" I co-organized with SÜnje Paasch-Colberg (DeZIM, Berlin), Ahrabhi Kathirgamalingam (U Vienna), and Sean-Kelly Palicki (TU Munich) was selected to represent the German Communication Association (DGPuK) at the conference. In this association member panel, we will discuss the opportunities and pitfalls of measuring racist language in text using (semi-)automated methods. We are particularly glad that we were able to recruit Erik Bleich (Middlebury College) as a respondent. Erik is a true expert in the field. We are looking forward to discussing our research with him and the ICA crowd in Toronto next year.
 
 *22/09/2022* /// **Teaching in the fall term** /// The fall term at U Mannheim is in full swing already. To me personally, after two years of emergency rule, this is the first term in a long time that feels "normal" in every way. And this is something I can greatly appreciate. I am looking forward to working with my wonderful students in my thesis colloquium and the following classes: (1) News Avoidance (B.A./M.A. seminar), (2) Researching Digital Communication: Methods, Tools, Designs (M.A. seminar), & (3) Advanced Data Analysis (M.A. seminar).
