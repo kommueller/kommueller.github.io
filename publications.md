@@ -14,7 +14,7 @@ layout: default
 
 ## Editions
 
-(4) Krämer, B., & Müller, P. (eds., for 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
+(4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
 
 (3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
 
@@ -96,9 +96,9 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(15) Ludwig, K., & Müller, P. (in prep. for 2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
+(15) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
 
-(14) Krämer, B., & Müller, P. (in prep. for 2022). Cycles and coexistences, comparisons and catastrophies. An introduction to the volume. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 7-22). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-7" target="_blank">https://doi.org/10.5771/9783748928232-7</a>
+(14) Krämer, B., & Müller, P. (2022). Cycles and coexistences, comparisons and catastrophies. An introduction to the volume. In B. Krämer, & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 7-22). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-7" target="_blank">https://doi.org/10.5771/9783748928232-7</a>
 
 (13) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
