@@ -31,7 +31,7 @@
 /* Toot container */
 .mt-toot {
   margin: 0 0.5rem 0 0;
-  padding: 1rem 0 2rem 65px;
+  padding: 0 0 1rem 65px;
   position: relative;
   min-height: 60px;
   background-color: transparent;
