@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		toots_limit: 15,
 		hide_reblog: true,
 		hide_replies: true,		
-		btn_see_more: 'See more posts at Mastodon'
+		btn_see_more: 'See more posts on Mastodon'
 	});
 });
 
