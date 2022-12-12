@@ -24,6 +24,8 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## News
 
+If you are interested in what has kept my mind busy recently, check out my Mastodon timeline:
+
 <link rel="stylesheet" href="_layouts/mastodon-timeline.css">
 
 <script src='_layouts/mastodon-timeline.js'></script>
