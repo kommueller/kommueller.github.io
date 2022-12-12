@@ -21,3 +21,9 @@ This page will give you an overview of my academic work. Most importantly, you c
     + Digital news consumption & its effects
     + Algorithmic news recommender systems
  * (Triangulation of) quantitative & computational methods
+ 
+<div id="mt-timeline" class="mt-timeline">
+    <div id="mt-body" class="mt-body">
+        <div class="loading-spinner"></div>
+    </div>
+</div>
