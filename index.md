@@ -26,10 +26,6 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 If you are interested in what has kept my mind busy recently, check out my Mastodon timeline:
 
-<link rel="stylesheet" href="_layouts/mastodon-timeline.css">
-
-<script src='_layouts/mastodon-timeline.js'></script>
-
 <div id="mt-timeline" class="mt-timeline">
     <div id="mt-body" class="mt-body">
         <div class="loading-spinner"></div>
