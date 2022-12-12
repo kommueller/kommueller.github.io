@@ -22,7 +22,7 @@ This page will give you an overview of my academic work. Most importantly, you c
     + Algorithmic news recommender systems
  * (Triangulation of) quantitative & computational methods
 
-## Latest
+## My Latest Posts
 
 <div id="mt-timeline" class="mt-timeline">
     <div id="mt-body" class="mt-body">
