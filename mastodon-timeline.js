@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		instance_uri: 'https://sciences.social',
 		user_id: '109382279189165348',
 		profile_name: '@kommueller',
-		toots_limit: 6,
+		toots_limit: 15,
 		hide_reblog: true,
 		hide_replies: true,		
 		btn_see_more: 'See more posts at Mastodon'
