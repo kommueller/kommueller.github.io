@@ -12,7 +12,7 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 * Political communication & societal cohesion
     + Populist communication & democratic alienation
-    + Alternative media
+    + Democratic impact of social & alternative media
     + Construction & depiction of social groups
     + Relationships between political journalism & citizenry
 * Media change & innovation
