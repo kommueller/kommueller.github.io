@@ -35,7 +35,6 @@
   position: relative;
   min-height: 60px;
   background-color: transparent;
-  border-bottom: 1px solid #dee2e6;
 }
 .mt-toot:hover {
   cursor: pointer;
@@ -52,7 +51,6 @@
 }
 .mt-avatar {
   position: absolute;
-  top: 20px;
   left: 5px;
   width: 50px;
   height: 50px;
