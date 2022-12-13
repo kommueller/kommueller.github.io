@@ -8,7 +8,7 @@ layout: default
 
 This page will give you an overview of my academic work. Most importantly, you can find links to open access publications and open materials complementing my research in the [publications list](./publications.html).
 
-## My Focus in Research & Teaching
+## Focus in Research & Teaching
 
 * Political communication & societal cohesion
     + Populist communication & democratic alienation
@@ -22,7 +22,7 @@ This page will give you an overview of my academic work. Most importantly, you c
     + Algorithmic news recommender systems
  * (Triangulation of) quantitative & computational methods
 
-## My Latest Posts
+## Latest Posts from Mastodon
 
 <div id="mt-timeline" class="mt-timeline">
     <div id="mt-body" class="mt-body">
