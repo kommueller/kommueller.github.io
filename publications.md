@@ -24,6 +24,8 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
+(31) Ludwig, K., Grote, A., Iana, A., Alam, M., Paulheim, H., Sack, H, Weinhardt, C., & Müller, P. (accepted). Divided by the algorithm? The (limited) effects of content- and sentiment-based news recommendation on affective, ideological, and perceived polarization. *Social Science Computer Review*. /// <font color="#f36b2c">open access</font>
+
 (30) Schäfer, S., Müller, P., & Ziegele, M. (2022). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*. /// <font color="#f36b2c">open access: </font> <a href="https://doi.org/10.1177/14614448211073059" target="_blank">https://doi.org/10.1177/14614448211073059</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/zyq4j/" target="_blank">https://osf.io/zyq4j/</a>
 
 (29) Müller, P., & Freudenthaler, R. (2022). Right-wing, populist, controlled by foreign powers? Topic diversification and partisanship in the content structures of German-language alternative media. *Digital Journalism, 10*, 1363-1386. /// <a href="https://doi.org/10.1080/21670811.2022.2058972" target="_blank">https://doi.org/10.1080/21670811.2022.2058972</a>
