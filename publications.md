@@ -24,6 +24,8 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
+(32) Müller, P., Chan, C.-h., Ludwig, K., Freudenthaler, R., & Wessler, H. (accepted). Differential racism in the news: Using semi-supervised machine learning to distinguish explicit and implicit stigmatization of ethnic and religious groups in journalistic discourse. *Political Communication*.
+
 (31) Ludwig, K., Grote, A., Iana, A., Alam, M., Paulheim, H., Sack, H, Weinhardt, C., & Müller, P. (2023). Divided by the algorithm? The (limited) effects of content- and sentiment-based news recommendation on affective, ideological, and perceived polarization. *Social Science Computer Review*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/08944393221149290" target="_blank">https://doi.org/10.1177/08944393221149290</a>
 
 (30) Schäfer, S., Müller, P., & Ziegele, M. (2022). The double-edged sword of online deliberation: How evidence-based user comments both decrease and increase discussion participation intentions on social media. *New Media & Society*. /// <font color="#f36b2c">open access: </font> <a href="https://doi.org/10.1177/14614448211073059" target="_blank">https://doi.org/10.1177/14614448211073059</a> /// <font color="#1869cc">open data</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/zyq4j/" target="_blank">https://osf.io/zyq4j/</a>
