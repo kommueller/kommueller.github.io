@@ -82,7 +82,7 @@ layout: default
 
 (4) Scherr, S., Müller, P., & Fast, V. (2013). Do third-person perceptions amplify exemplification effects? *International Journal of Communication, 7*, 1603-1621. /// <font color="#f36b2c">open access:</font> <a href="http://ijoc.org/index.php/ijoc/article/view/1725/957" target="_blank">http://ijoc.org/index.php/ijoc/article/view/1725/957</a>
 
-(3) Müller, P., & Hohlfeld, R. (2013). Journalistische Vorstellungen von Medienwirkungen. Dimensionen – Entstehungsbedingungen – Folgen. *Medien & Kommunikationswissenschaft, 61*, 166-182. /// <a href="https://doi.org/10.5771/1615-634x-2013-2-166" target="_blank">https://doi.org/10.5771/1615-634x-2013-2-166</a> /// <font color="#f36b2c">open access:</font> <a href="http://www.m-und-k.nomos.de/fileadmin/muk/doc/Aufsatz_MuK_13_02.pdf" target="_blank">http://www.m-und-k.nomos.de/fileadmin/muk/doc/Aufsatz_MuK_13_02.pdf</a>
+(3) Müller, P., & Hohlfeld, R. (2013). Journalistische Vorstellungen von Medienwirkungen. Dimensionen – Entstehungsbedingungen – Folgen. *Medien & Kommunikationswissenschaft, 61*, 166-182. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/1615-634x-2013-2-166" target="_blank">https://doi.org/10.5771/1615-634x-2013-2-166</a>
 
 (2) Scherr, S., Müller, P., & Fast, V. (2013). Single comments or average ratings: Which elements of RateMyProfessors.com shape university students’ judgments and course choice intentions? *Educational Assessment, Evaluation and Accountability, 25*, 131-141. /// <a href="https://doi.org/10.1007/s11092-013-9164-z" target="_blank">https://doi.org/10.1007/s11092-013-9164-z</a>
 
@@ -140,9 +140,9 @@ layout: default
 
 (3) Müller, P., & Denner, N. (2017). *Was tun gegen "Fake News"? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet.* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit.
 
-(2) Wirth, W., Schemer, C., Schulz, A., Wettstein, M., Wirz, D. S., & Müller, P. (2017). *A Multi-Dimensional Measure to Assess Populist Attitudes in the Public in Eight Languages* (NCCR Democracy Working Paper No. 87). Zürich: NCCR Democracy. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5167/uzh-127460" target="_blank">https://doi.org/10.5167/uzh-127460</a>
+(2) Wirth, W., Schemer, C., Schulz, A., Wettstein, M., Wirz, D. S., & Müller, P. (2017). *A Multi-Dimensional Measure to Assess Populist Attitudes in the Public in Eight Languages* (NCCR Democracy Working Paper No. 87). Zürich: NCCR Democracy.
 
-(1) Wirth, W., Esser, F., Wettstein, M., Engesser, S., Wirz, D., Schulz, A., Ernst, N., Büchel, F., Caramani, D., Steenbergen, M., Bernhard, L., Weber, E., Hänggli, R., Dalmus, C., Schemer, C., & Müller, P. (2016). *The Appeal of Populist Ideas, Strategies and Styles: A Theoretical Model and Research Design for Analyzing Populist Political Communication* (NCCR Democracy Working Paper No. 88). Zürich: NCCR Democracy. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5167/uzh-127461" target="_blank">https://doi.org/10.5167/uzh-127461</a>
+(1) Wirth, W., Esser, F., Wettstein, M., Engesser, S., Wirz, D., Schulz, A., Ernst, N., Büchel, F., Caramani, D., Steenbergen, M., Bernhard, L., Weber, E., Hänggli, R., Dalmus, C., Schemer, C., & Müller, P. (2016). *The Appeal of Populist Ideas, Strategies and Styles: A Theoretical Model and Research Design for Analyzing Populist Political Communication* (NCCR Democracy Working Paper No. 88). Zürich: NCCR Democracy.
 
 ## Book Reviews
 
