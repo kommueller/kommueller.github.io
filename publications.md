@@ -130,7 +130,11 @@ layout: default
 
 (1) Müller, P. (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Politische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
 
-## Reports & Working Papers
+## Reports, Working Papers, & Data Sets
+
+(8) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., Sack, H., & Paulheim, H. (2022). NeMig - A bilingual news collection and knowledge graph about migration (v1.0.0). *Zenodo*. /// <font color="#f36b2c">open access (upon request):</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.7442425</a>
+
+(7) Iana, A., Grote, A., Ludwig, K., Alam, M., Müller, P., Weinhardt, C., Sack, H., & Paulheim, H. (2022). GeNeG: German news knowledge graph (v1.0.1). *Zenodo*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.6039372</a>
 
 (6) Müller, P., & Denner, N. (2020). *¿Qué hacer frente a las fake news?* [Spanish translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/911" target="_blank">https://shop.freiheit.org/#!/Publikation/911</a>
 
