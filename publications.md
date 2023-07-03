@@ -6,6 +6,8 @@ layout: default
 
 ## Monographs
 
+(4) Koch, T., Seeger, C., & Müller, P. (in prep.). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Wiesbaden: Springer VS.
+
 (3) Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
 
 (2) Müller, P. (2016). *Die Wahrnehmung des Medienwandels. Eine Exploration ihrer Dimensionen, Entstehungsbedingungen und Folgen.* Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-12812-8" target="_blank">https://doi.org/10.1007/978-3-658-12812-8</a>
@@ -90,6 +92,8 @@ layout: default
 
 ## Handbook Chapters & Encyclopedia Entries
 
+(5) Müller, P. (in prep.). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Encyclopedia of Political Communication*. Cheltenham: Elgar.
+
 (4) Müller, P., & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Hoboken, NJ: Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
 
 (3) Schemer, C., & Müller, P. (2017). Europe: Representations of ethnic minorities and their effects. In C. P. Campbell (ed.), *The Routledge Companion to Media and Race* (pp. 259-268). New York: Routledge.
@@ -99,6 +103,8 @@ layout: default
 (1) Müller, P. (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
 ## Contributions to Edited Volumes & Online Collections
+
+(16) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (in prep.). Differenzieller Rassismus in der Nachrichtenberichterstattung: Eine automatisierte Inhaltsanalyse expliziter und impliziter Stigmatisierungen ethnischer und religiöser Gruppen im journalistischen Diskurs. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken*. Baden-Baden: Nomos.
 
 (15) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
 
@@ -131,6 +137,8 @@ layout: default
 (1) Müller, P. (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Politische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
 
 ## Reports, Working Papers, & Data Sets
+
+(9) Ludwig, K., Müller, P., Chan, C.-h., Freudenthaler, R., & Wessler, H. (in prep.). Stigmatisierung ethnischer und religiöser Gruppen in der politischen und medialen Öffentlichkeit 2022. *MZES Fokus*.
 
 (8) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., Sack, H., & Paulheim, H. (2022). NeMig - A bilingual news collection and knowledge graph about migration (v1.0.0). *Zenodo*. /// <font color="#1869cc">open data (upon request):</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.7442425</a>
 

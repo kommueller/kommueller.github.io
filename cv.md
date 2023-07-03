@@ -55,6 +55,8 @@ layout: default
 
 ## Awards & Distinctions
 
+* Top Paper Award 2023, ICA Computational Methods Division
+* Top Reviewer 2022, *Journal of Media Psychology*
 * Best Proposal Award 2018, DGPuK Communication and Politics Division
 * The Kaid Sanders Best Article of the Year Award 2017, ICA Political Communication Division
 * Top Paper Award 2016/2017, *SCM – Studies in Communication and Media*
