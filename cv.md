@@ -6,35 +6,39 @@ layout: default
 
 ## Qualification
 
-*2015* /// **PhD in Communication (Major) & Political Science (Minor)**
+*07/15* /// **PhD in Communication (Major) & Political Science (Minor)**
 <br>*Ludwig-Maximilians University Munich, Germany*
 <br>summa cum laude
 
-*2010* /// **M.A. in Media and Communication**
+*02/10* /// **M.A. in Media and Communication**
 <br>*University of Passau, Germany*
 
-*2008* /// **B.A. in Media and Communication**
+*02/08* /// **B.A. in Media and Communication**
 <br>*University of Passau, Germany*
 
 ## Academic Positions
 
-*since 2019* /// **Senior Lecturer**
+*09/23 to 06/24* /// **Acting Full Professor**
 <br>*University of Mannheim, Germany*
 <br>Institute for Media and Communication Studies
 
-*2014 to 2019* /// **Postdoc**
+*since 03/19* /// **Senior Lecturer**
+<br>*University of Mannheim, Germany*
+<br>Institute for Media and Communication Studies
+
+*04/14 to 02/19* /// **Postdoc**
 <br>*Johannes Gutenberg University Mainz, Germany*
 <br>Department of Communication
 
-*2013* /// **Visiting Lecturer**
+*04/13* /// **Visiting Lecturer**
 <br>*La Sapienza – University of Rome, Italy*
 <br>Department of Communication and Social Sciences
 
-*2010 to 2014* /// **Research & Teaching Associate**
+*04/10 to 03/14* /// **Research & Teaching Associate**
 <br>*Ludwig-Maximilians University Munich, Germany*
 <br>Department of Communication Studies and Media Research
 
-*2008 to 2010* /// **Student Research & Teaching Assistant**
+*04/08 to 03/10* /// **Student Research & Teaching Assistant**
 <br>*University of Passau, Germany*
 <br>Chair of Communication Studies
 <br>Chair of Modern German Literary Studies
@@ -42,14 +46,14 @@ layout: default
 
 ## Grants & Funding
 
-*2022 to 2024* /// **Impliziter und expliziter Rassismus in Nachrichtenmedien und sozialen Medien: Ausmaß und Wirkung** /// Research grant awarded to Chung-hong Chan, Philipp Müller, & Hartmut Wessler by *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* as part of the research alliance *Forschungsverbund Diskriminierung und Rassismus (FoDiRa)* /// **375,000 €** 
+*04/22 to 08/24* /// **Impliziter und expliziter Rassismus in Nachrichtenmedien und sozialen Medien: Ausmaß und Wirkung** /// Research grant awarded to Chung-hong Chan, Philipp Müller, & Hartmut Wessler by *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* as part of the research alliance *Forschungsverbund Diskriminierung und Rassismus (FoDiRa)* /// **375,000 €** 
 
-*2020 to 2023* /// **Responsible News Recommender Systems (ReNewRS)** /// Research grant awarded to Philipp Müller, Heiko Paulheim, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
-
-*2020* /// **Offener und versteckter Rassismus in der politischen und medialen Öffentlichkeit**
+*10/20 to 02/21* /// **Offener und versteckter Rassismus in der politischen und medialen Öffentlichkeit**
 /// Research grant awarded to Chung-hong Chan, Philipp Müller, Katharina Ludwig, & Hartmut Wessler by *Deutsches Zentrum für Integrations- und Migrationsforschung (DeZIM)* / *Federal Ministry of Family Affairs, Senior Citizens, Women and Youth (BMFSFJ)* /// **49,000 €**
 
-*2015 to 2016* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews** /// Research grant awarded to Philipp Müller & Christian Schemer by the *Research Center on Media Convergence at U Mainz* /// **15,000 €**
+*08/20 to 02/23* /// **Responsible News Recommender Systems (ReNewRS)** /// Research grant awarded to Philipp Müller, Heiko Paulheim, Harald Sack, & Christof Weinhardt by *Baden-Württemberg-Stiftung* /// **833,000 €**
+
+*08/15 to 02/16* /// **Medienkonvergenz aus Nutzersicht. Eine Exploration mittels qualitativer Leitfadeninterviews** /// Research grant awarded to Philipp Müller & Christian Schemer by the *Research Center on Media Convergence at U Mainz* /// **15,000 €**
 
 *Additionally* /// Numerous travel, teaching, and minor research grants adding to a total of approx. **40,000 €**
 
