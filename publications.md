@@ -26,9 +26,9 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(33) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., & Paulheim, H. (accepted). NeMig - A bilingual news collection and knowledge graph about migration. *Proceedings of the 11th International Workshop on News Recommendation and Analytics (INRA 2023) in conjunction with ACM RecSys 2023*. /// <font color="#f36b2c">open access:</font> <a href="  	
-https://doi.org/10.48550/arXiv.2309.00550" target="_blank">
-https://doi.org/10.48550/arXiv.2309.00550</a>
+(34) Chan, C.-h., Freudenthaler, R., & Müller, P. (accepted). Synthesizing an experimental dataset for the evaluation of generic frame detection as a task of detecting communicative intention. *SC|M – Studies in Communication and Media*.
+
+(33) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., & Paulheim, H. (accepted). NeMig - A bilingual news collection and knowledge graph about migration. *Proceedings of the 11th International Workshop on News Recommendation and Analytics (INRA 2023) in conjunction with ACM RecSys 2023*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.48550/arXiv.2309.00550" target="_blank">https://doi.org/10.48550/arXiv.2309.00550</a> // <font color="#1869cc">open data:</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.6039372</a>
 
 (32) Ludwig, K., Grote, A., Iana, A., Alam, M., Paulheim, H., Sack, H, Weinhardt, C., & Müller, P. (2023). Divided by the algorithm? The (limited) effects of content- and sentiment-based news recommendation on affective, ideological, and perceived polarization. *Social Science Computer Review*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/08944393221149290" target="_blank">https://doi.org/10.1177/08944393221149290</a>
 
