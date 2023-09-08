@@ -26,7 +26,7 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(34) Chan, C.-h., Freudenthaler, R., & Müller, P. (accepted). Synthesizing an experimental dataset for the evaluation of generic frame detection as a task of detecting communicative intention. *SCM – Studies in Communication and Media*.
+(34) Chan, C.-h., Freudenthaler, R., & Müller, P. (accepted). Developing a synthetic news corpus to validate generic frame detection methods. *SCM – Studies in Communication and Media*.
 
 (33) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., & Paulheim, H. (accepted). NeMig - A bilingual news collection and knowledge graph about migration. *Proceedings of the 11th International Workshop on News Recommendation and Analytics (INRA 2023) in conjunction with ACM RecSys 2023*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.48550/arXiv.2309.00550" target="_blank">https://doi.org/10.48550/arXiv.2309.00550</a> // <font color="#1869cc">open data:</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.6039372</a>
 
@@ -142,7 +142,7 @@ layout: default
 
 ## Reports, Working Papers, & Data Sets
 
-(9) Ludwig, K., Müller, P., Chan, C.-h., Freudenthaler, R., & Wessler, H. (in prep.). Stigmatisierung ethnischer und religiöser Gruppen in der politischen und medialen Öffentlichkeit 2022. *MZES Fokus*.
+(9) Ludwig, K., Müller, P., Chan, C.-h., Freudenthaler, R., & Wessler, H. (in prep.). Implizite und explizite Stigmatisierung ethnischer Gruppen in der deutschen Medienöffentlichkeit 2022. *MZES Fokus*.
 
 (8) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., Sack, H., & Paulheim, H. (2022). NeMig - A bilingual news collection and knowledge graph about migration (v1.0.0). *Zenodo*. /// <font color="#1869cc">open data (upon request):</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.7442425</a>
 
