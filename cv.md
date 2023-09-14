@@ -18,7 +18,7 @@ layout: default
 
 ## Academic Positions
 
-*2023 to 2024* /// **Acting Full Professor**
+*2023 to 2024* /// **Interim Full Professor**
 <br>*University of Mannheim, Germany*
 <br>Institute for Media and Communication Studies
 
