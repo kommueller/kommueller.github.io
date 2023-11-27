@@ -142,7 +142,9 @@ layout: default
 
 ## Reports, Working Papers, & Data Sets
 
-(9) Ludwig, K., Müller, P., Chan, C.-h., Freudenthaler, R., & Wessler, H. (in prep.). Implizite und explizite Stigmatisierung ethnischer Gruppen in der deutschen Medienöffentlichkeit 2022. *MZES Fokus*.
+(10) Ludwig, K., Müller, P., Chan, C.-h., Freudenthaler, R., & Wessler, H. (in prep.). Implizite und explizite Stigmatisierung ethnischer Gruppen in der deutschen Medienöffentlichkeit 2022. *MZES Fokus*.
+
+(9) Bach, R. L., Areal, J., & Müller, P. (2023). Alternative News, Alternative Views? How Populist Alternative News Consumption Contributes to Political Attitudes During the 2021 Federal Election in Germany. /// <font color="#f36b2c">open access (preprint):</font> <a href="https://doi.org/10.31219/osf.io/g96w7" target="_blank">https://doi.org/10.31219/osf.io/g96w7</a>
 
 (8) Iana, A., Alam, M., Grote, A., Ludwig, K., Müller, P., Weinhardt, C., Sack, H., & Paulheim, H. (2022). NeMig - A bilingual news collection and knowledge graph about migration (v1.0.0). *Zenodo*. /// <font color="#1869cc">open data (upon request):</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.7442425</a>
 
