@@ -71,6 +71,7 @@ layout: default
 
 ## Services to the Academic Community
 
+* Vice Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a> (2024 -)
 * Reviewer for numerous national & international journals & conferences (e.g., *British Journal of Political Science*, *Communication Research*, *Human Communication Research*, *Information, Communication & Society*, *International Journal of Communication*, *International Journal of Public Opinion Research*, *Journal of Communication*, *Journal of Elections, Public Opinion & Parties*, *Journal of Media Psychology*, *Journalism and Mass Communication Quarterly*, *Journalism: Theory, Practice & Criticism*, *Media Psychology*, *Nature Human Behaviour*, *New Media & Society*, *Political Behavior*, *Public Opinion Quarterly*, *The International Journal of Press/Politics*)
 * Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
 * Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP) & Netzwerk Medienstrukturen
