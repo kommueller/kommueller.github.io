@@ -16,6 +16,8 @@ layout: default
 
 ## Editions
 
+(5) Dan, V., Rußmann, U., Schulz, A., & Müller, P. (eds., in prep. for 2026). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication*.
+
 (4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
 
 (3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
@@ -108,13 +110,15 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(16) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (in prep.). Differenzieller Rassismus in der Nachrichtenberichterstattung: Eine automatisierte Inhaltsanalyse expliziter und impliziter Stigmatisierungen ethnischer und religiöser Gruppen im journalistischen Diskurs. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken*. Baden-Baden: Nomos.
+(17) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (in prep.). Differenzieller Rassismus in der Nachrichtenberichterstattung: Eine automatisierte Inhaltsanalyse expliziter und impliziter Stigmatisierungen. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken*. Baden-Baden: Nomos.
 
-(15) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
+(16) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
 
-(14) Krämer, B., & Müller, P. (2022). Cycles and coexistences, comparisons and catastrophies. An introduction to the volume. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 7-22). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-7" target="_blank">https://doi.org/10.5771/9783748928232-7</a>
+(15) Krämer, B., & Müller, P. (2022). Cycles and coexistences, comparisons and catastrophies. An introduction to the volume. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 7-22). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-7" target="_blank">https://doi.org/10.5771/9783748928232-7</a>
 
-(13) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
+(14) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
+
+(13) Müller, P. (2020). Polarisation of the public. How the relationship between journalism and citi-zens is changing – and why [English translation of Müller, 2018]. In P. Limbourg & R. Grätz (eds.), *Spin on the Internet: Fake News, Bots and Hate Speech* (pp. 29–39). Göttingen: Steidl.
 
 (12) Schemer, C., Geiß, S., & Müller, P. (2019). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen* (pp. 262-285). Köln: Halem.
 
