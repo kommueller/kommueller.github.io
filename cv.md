@@ -18,21 +18,17 @@ layout: default
 
 ## Academic Positions
 
-*2023 to 2024* /// **Interim Full Professor**
+*since 2019* /// **Senior Lecturer**
 <br>*University of Mannheim, Germany*
 <br>Institute for Media and Communication Studies
 
-*since 2019* /// **Senior Lecturer**
+*2023 to 2024* /// **Interim Full Professor**
 <br>*University of Mannheim, Germany*
 <br>Institute for Media and Communication Studies
 
 *2014 to 2019* /// **Postdoc**
 <br>*Johannes Gutenberg University Mainz, Germany*
 <br>Department of Communication
-
-*2013* /// **Visiting Lecturer**
-<br>*La Sapienza – University of Rome, Italy*
-<br>Department of Communication and Social Sciences
 
 *2010 to 2014* /// **Research & Teaching Associate**
 <br>*Ludwig-Maximilians University Munich, Germany*
@@ -43,6 +39,12 @@ layout: default
 <br>Chair of Communication Studies
 <br>Chair of Modern German Literary Studies
 <br>Data Center
+
+## Research & Teaching Stays
+
+*2013* /// **Visiting Lecturer**
+<br>*La Sapienza – University of Rome, Italy*
+<br>Department of Communication and Social Sciences
 
 ## Grants & Funding
 
