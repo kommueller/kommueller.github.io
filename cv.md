@@ -62,7 +62,7 @@ layout: default
 ## Awards & Distinctions
 
 * Top Paper Award 2023, ICA Computational Methods Division
-* Top Reviewer 2022, *Journal of Media Psychology*
+* Reviewer of the Year 2022, *Journal of Media Psychology*
 * Best Proposal Award 2018, DGPuK Communication and Politics Division
 * The Kaid Sanders Best Article of the Year Award 2017, ICA Political Communication Division
 * Top Paper Award 2016/2017, *SCM – Studies in Communication and Media*
@@ -74,9 +74,10 @@ layout: default
 ## Services to the Academic Community
 
 * Vice Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a> (2024 -)
-* Reviewer for numerous national & international journals & conferences (e.g., *British Journal of Political Science*, *Communication Research*, *Human Communication Research*, *Information, Communication & Society*, *International Journal of Communication*, *International Journal of Public Opinion Research*, *Journal of Communication*, *Journal of Elections, Public Opinion & Parties*, *Journal of Media Psychology*, *Journalism and Mass Communication Quarterly*, *Journalism: Theory, Practice & Criticism*, *Media Psychology*, *Nature Human Behaviour*, *New Media & Society*, *Political Behavior*, *Public Opinion Quarterly*, *The International Journal of Press/Politics*)
+* Editorial board member of the *Journal of Media Psychology* (2024 -) & DGPuK advisory board member of *SCM – Studies in Communication and Media* (2024 - )
+* Reviewer for numerous national & international journals, conferences, & funding institutions (e.g., *American Sociological Review*, *Communication Methods and Measures*, *Communication Research*, *Communication Theory*, *Human Communication Research*, *Information, Communication & Society*,  *Journal of Communication*, *Journalism and Mass Communication Quarterly*, *Journalism Studies*, *Media Psychology*, *Nature Human Behaviour*, Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO), *New Media & Society*, *Political Behavior*, *Public Opinion Quarterly*, Schweizerischer Nationalfonds (SNF), *Social Media + Society*, *The International Journal of Press/Politics*)
 * Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
-* Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA), International Society of Political Psychology (ISPP) & Netzwerk Medienstrukturen
+* Member of European Communication Research and Education Association (ECREA), German Communication Association (DGPuK), International Communication Association (ICA) & Netzwerk Medienstrukturen
 * Numerous functions in academic self-government (e.g., chair of curricular reform commitee at U Mannheim, vice chair of examinations board at U Mannheim, faculty council member at U Mainz, library commissioner at U Mainz, member of appointment, program admission, & teaching committees)
 
 ## Knowledge Transfer
