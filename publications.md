@@ -118,7 +118,7 @@ layout: default
 
 (14) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
-(13) Müller, P. (2020). Polarisation of the public. How the relationship between journalism and citi-zens is changing – and why [English translation of Müller, 2018]. In P. Limbourg & R. Grätz (eds.), *Spin on the Internet: Fake News, Bots and Hate Speech* (pp. 29–39). Göttingen: Steidl.
+(13) Müller, P. (2020). Polarisation of the public. How the relationship between journalism and citizens is changing – and why [English translation of Müller, 2018]. In P. Limbourg & R. Grätz (eds.), *Spin on the Internet: Fake News, Bots and Hate Speech* (pp. 29–39). Göttingen: Steidl.
 
 (12) Schemer, C., Geiß, S., & Müller, P. (2019). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen* (pp. 262-285). Köln: Halem.
 
