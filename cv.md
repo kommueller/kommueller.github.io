@@ -34,13 +34,15 @@ layout: default
 <br>*Ludwig-Maximilians University Munich, Germany*
 <br>Department of Communication Studies and Media Research
 
-*2008 to 2010* /// **Student Research & Teaching Assistant**
-<br>*University of Passau, Germany*
-<br>Chair of Communication Studies
-<br>Chair of Modern German Literary Studies
-<br>Data Center
-
 ## Research & Teaching Stays
+
+*2025 (scheduled)* /// **Visiting Researcher**
+<br>*Wageningen University and Research, the Netherlands*
+<br>Strategic Communication Group
+
+*2024 (scheduled)* /// **Visiting Researcher**
+<br>*Wageningen University and Research, the Netherlands*
+<br>Strategic Communication Group
 
 *2013* /// **Visiting Lecturer**
 <br>*La Sapienza – University of Rome, Italy*
