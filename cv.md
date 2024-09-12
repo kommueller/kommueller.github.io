@@ -36,15 +36,15 @@ layout: default
 
 ## Research & Teaching Stays
 
-*2025 (scheduled)* /// **Visiting Researcher**
+*2025 (scheduled)* /// **Research & Teaching Stay**
+<br>*University of Oregon, USA*
+<br>School of Journalism and Communication
+
+*2024 (scheduled)* /// **Research Stay**
 <br>*Wageningen University and Research, the Netherlands*
 <br>Strategic Communication Group
 
-*2024 (scheduled)* /// **Visiting Researcher**
-<br>*Wageningen University and Research, the Netherlands*
-<br>Strategic Communication Group
-
-*2013* /// **Visiting Lecturer**
+*2013* /// **Teaching Stay**
 <br>*La Sapienza – University of Rome, Italy*
 <br>Department of Communication and Social Sciences
 
