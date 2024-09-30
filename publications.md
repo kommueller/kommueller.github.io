@@ -110,7 +110,7 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(17) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (in prep.). Differenzieller Rassismus in der Nachrichtenberichterstattung: Eine automatisierte Inhaltsanalyse expliziter und impliziter Stigmatisierungen. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken*. Baden-Baden: Nomos.
+(17) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (in press). Differenzieller Rassismus in der Nachrichtenberichterstattung: Eine automatisierte Inhaltsanalyse expliziter und impliziter Stigmatisierungen. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken*. Baden-Baden: Nomos.
 
 (16) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
 
