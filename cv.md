@@ -34,7 +34,7 @@ layout: default
 <br>*Ludwig-Maximilians University Munich, Germany*
 <br>Department of Communication Studies and Media Research
 
-## Research & Teaching Stays
+## International Academic Stays
 
 *2025 (scheduled)* /// **Research & Teaching Stay**
 <br>*University of Oregon, USA*
