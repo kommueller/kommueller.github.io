@@ -40,7 +40,7 @@ layout: default
 <br>*University of Oregon, USA*
 <br>School of Journalism and Communication
 
-*2024 (scheduled)* /// **Research Stay**
+*2024* /// **Research Stay**
 <br>*Wageningen University and Research, the Netherlands*
 <br>Strategic Communication Group
 
