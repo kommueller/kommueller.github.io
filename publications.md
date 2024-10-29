@@ -6,25 +6,25 @@ layout: default
 
 ## Monographs
 
-(4) Koch, T., Seeger, C., & Müller, P. (in prep. for 2025). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Wiesbaden: Springer VS.
+(4) Koch, T., Seeger, C., & Müller, P. (in prep. for 2025). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Springer VS.
 
-(3) Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
+(3) Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
 
-(2) Müller, P. (2016). *Die Wahrnehmung des Medienwandels. Eine Exploration ihrer Dimensionen, Entstehungsbedingungen und Folgen.* Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-12812-8" target="_blank">https://doi.org/10.1007/978-3-658-12812-8</a>
+(2) Müller, P. (2016). *Die Wahrnehmung des Medienwandels. Eine Exploration ihrer Dimensionen, Entstehungsbedingungen und Folgen.* Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-12812-8" target="_blank">https://doi.org/10.1007/978-3-658-12812-8</a>
 
-(1) Müller, P. (2010). *Der Third-Person-Effekt als Darstellungsphänomen.* Berlin: Lit.
+(1) Müller, P. (2010). *Der Third-Person-Effekt als Darstellungsphänomen.* Lit.
 
 ## Editions
 
 (5) Dan, V., Rußmann, U., Schulz, A., & Müller, P. (eds., in prep. for 2026). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication*.
 
-(4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
+(4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
 
-(3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Köln: Halem.
+(3) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (eds., 2019). *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen.* Halem.
 
 (2) Müller, P., & Denner, N. (eds., 2018). Debatte: Postfaktizität – der (neue) Kampf um die Wahrheit und die Kommunikationswissenschaft. *aviso – Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft*, (66). /// <font color="#f36b2c">open access:</font> <a href="https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf" target="_blank">https://www.dgpuk.de/sites/default/files/Aviso%20_66_01-2018.pdf</a>
 
-(1) Hohlfeld, R., Müller, P., Richter, A., & Zacher, F. (eds., 2010). *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis.* Berlin: Lit. (2nd edition, 2013)
+(1) Hohlfeld, R., Müller, P., Richter, A., & Zacher, F. (eds., 2010). *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis.* Lit. (2nd edition, 2013)
 
 ## Articles in Journals & Conference Proceedings
 
@@ -110,39 +110,39 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(17) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (2024). Differenzieller Rassismus in den Nachrichten: Implizite und expliziter Stigmatisierungen. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds., pp. 113-130), *Politischer Journalismus: Konstellationen – Muster – Dynamiken*. Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748939702-113" target="_blank">https://doi.org/10.5771/9783748939702-113</a>
+(17) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (2024). Differenzieller Rassismus in den Nachrichten: Implizite und expliziter Stigmatisierungen. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken* (pp. 113-130). Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748939702-113" target="_blank">https://doi.org/10.5771/9783748939702-113</a>
 
-(16) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
+(16) Ludwig, K., & Müller, P. (2022). Does social media use promote political mass polarization? A structured literature review. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 118-166). Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-118" target="_blank">https://doi.org/10.5771/9783748928232-118</a>
 
-(15) Krämer, B., & Müller, P. (2022). Cycles and coexistences, comparisons and catastrophies. An introduction to the volume. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 7-22). Baden-Baden: Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-7" target="_blank">https://doi.org/10.5771/9783748928232-7</a>
+(15) Krämer, B., & Müller, P. (2022). Cycles and coexistences, comparisons and catastrophies. An introduction to the volume. In B. Krämer & P. Müller (eds.), *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser* (pp. 7-22). Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232-7" target="_blank">https://doi.org/10.5771/9783748928232-7</a>
 
-(14) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
+(14) Engesser, S., Ernst, N., Büchel, F., Wettstein, M., Wirz, D. S., Schulz, A., Müller, P., Schemer, C., Wirth, W., & Esser, F. (2020). Populist communication in the news media: The role of cultural and journalistic factors in ten democracies. In B. Krämer & C. Holtz-Bacha (eds.), *Perspectives on Populism and the Media. Avenues for Research* (pp. 57-82). Nomos. /// <a href="https://doi.org/10.5771/9783845297392-57" target="_blank">https://doi.org/10.5771/9783845297392-57</a>
 
-(13) Müller, P. (2020). Polarisation of the public. How the relationship between journalism and citizens is changing – and why [English translation of Müller, 2018]. In P. Limbourg & R. Grätz (eds.), *Spin on the Internet: Fake News, Bots and Hate Speech* (pp. 29–39). Göttingen: Steidl.
+(13) Müller, P. (2020). Polarisation of the public. How the relationship between journalism and citizens is changing – and why [English translation of Müller, 2018]. In P. Limbourg & R. Grätz (eds.), *Spin on the Internet: Fake News, Bots and Hate Speech* (pp. 29–39). Steidl.
 
-(12) Schemer, C., Geiß, S., & Müller, P. (2019). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen* (pp. 262-285). Köln: Halem.
+(12) Schemer, C., Geiß, S., & Müller, P. (2019). Applying the reinforcing spirals model to dynamic communication phenomena: Conceptual and statistical pitfalls. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen* (pp. 262-285). Halem.
 
-(11) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (2019). Die Dynamik öffentlicher Kommunikationsprozesse als Herausforderung für die empirische Forschung. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen* (pp. 9-17). Köln: Halem.
+(11) Müller, P., Geiß, S., Schemer, C., Naab, T. K., & Peter, C. (2019). Die Dynamik öffentlicher Kommunikationsprozesse als Herausforderung für die empirische Forschung. In P. Müller, S. Geiß, C. Schemer, T. K. Naab, & C. Peter (eds.), *Dynamische Prozesse der öffentlichen Kommunikation. Methodische Herausforderungen* (pp. 9-17). Halem.
 
-(10) Müller, P. (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Berlin: Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
+(10) Müller, P. (2019). Warnen oder Löschen: Wie sollen Plattformen mit Falschmeldungen verfahren? In Bundeszentrale für politische Bildung (ed.), *Dossier Digitale Desinformation.* Bundeszentrale für politische Bildung. /// <font color="#f36b2c">open access:</font> <a href="http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren" target="_blank">http://www.bpb.de/gesellschaft/digitales/digitale-desinformation/290481/wie-sollen-plattformen-mit-falschmeldungen-verfahren</a>
 
-(9) Müller, P. (2018). Polarisierung des Publikums. Wie sich die Beziehung zwischen Journalismus und Bürgern verändert – und warum. In P. Limbourg & R. Grätz (eds.), *Meinungsmache im Netz: Fake News, Bots und Hate Speech* (pp. 33-43). Göttingen: Steidl. /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4" target="_blank">https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4</a>
+(9) Müller, P. (2018). Polarisierung des Publikums. Wie sich die Beziehung zwischen Journalismus und Bürgern verändert – und warum. In P. Limbourg & R. Grätz (eds.), *Meinungsmache im Netz: Fake News, Bots und Hate Speech* (pp. 33-43). Steidl. /// <font color="#f36b2c">open access (postprint):</font> <a href="https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4" target="_blank">https://nbn-resolving.org/urn:nbn:de:0168-ssoar-60154-4</a>
 
-(8) Müller, P. (2016). National identity building as a mediated process: A two-level model of its functions and dysfunctions. In J. Grimm, L. Huddy, P. Schmidt, & J. Seethaler (eds.), *Dynamics of National Identity. Media and Societal Factors of What We Are* (pp. 319-333). Abingdon: Routledge.
+(8) Müller, P. (2016). National identity building as a mediated process: A two-level model of its functions and dysfunctions. In J. Grimm, L. Huddy, P. Schmidt, & J. Seethaler (eds.), *Dynamics of National Identity. Media and Societal Factors of What We Are* (pp. 319-333). Routledge.
 
-(7) Müller, P. (2015). Gib mir Orientierung, gib mir Redestoff! Wie sich die Wahrnehmung des Medienwandels auf die Zahlungsbereitschaft für journalistische Inhalte auswirkt. In S. Pagel (ed.), *Schnittstellen (in) der Medienökonomie* (pp. 361-378). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845264868-361" target="_blank">https://doi.org/10.5771/9783845264868-361</a>
+(7) Müller, P. (2015). Gib mir Orientierung, gib mir Redestoff! Wie sich die Wahrnehmung des Medienwandels auf die Zahlungsbereitschaft für journalistische Inhalte auswirkt. In S. Pagel (ed.), *Schnittstellen (in) der Medienökonomie* (pp. 361-378). Nomos. /// <a href="https://doi.org/10.5771/9783845264868-361" target="_blank">https://doi.org/10.5771/9783845264868-361</a>
 
-(6) Müller, P. (2015). Kognitive und affektive Barrieren bei der Kommunikation politischer Reformen. In R. Fröhlich & T. Koch (eds.), *Politik – PR – Persuasion. Strukturen, Funktionen und Wirkungen politischer Öffentlichkeitsarbeit* (pp. 171-191). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-01683-8_9" target="_blank">https://doi.org/10.1007/978-3-658-01683-8_9</a>
+(6) Müller, P. (2015). Kognitive und affektive Barrieren bei der Kommunikation politischer Reformen. In R. Fröhlich & T. Koch (eds.), *Politik – PR – Persuasion. Strukturen, Funktionen und Wirkungen politischer Öffentlichkeitsarbeit* (pp. 171-191). Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-01683-8_9" target="_blank">https://doi.org/10.1007/978-3-658-01683-8_9</a>
 
-(5) Fast, V., Müller, P., & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispielen in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezeptions- und Wirkungsforschung* (pp. 317-334). Wiesbaden: Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
+(5) Fast, V., Müller, P., & Scherr, S. (2014). Der kombinierte Einsatz von Daten und Fallbeispielen in den Medien: Wirkung und Glaubwürdigkeit. In W. Loosen & M. Dohle (eds.), *Journalismus und (sein) Publikum. Schnittstellen zwischen Journalismusforschung und Rezeptions- und Wirkungsforschung* (pp. 317-334). Springer VS. /// <a href="https://doi.org/10.1007/978-3-531-19821-7_17" target="_blank">https://doi.org/10.1007/978-3-531-19821-7_17</a>
 
-(4) Müller, P., Scherr, S., & Fast, V. (2013). Der Einfluss wahrgenommener Medienwirkungen auf die Verarbeitung von Fallbeispielen. In O. Jandura, A. Fahr, & H.-B. Brosius (eds.), *Theorieanpassungen in der digitalen Medienwelt* (pp. 141-158). Baden-Baden: Nomos. /// <a href="https://doi.org/10.5771/9783845242682-141" target="_blank">https://doi.org/10.5771/9783845242682-141</a>
+(4) Müller, P., Scherr, S., & Fast, V. (2013). Der Einfluss wahrgenommener Medienwirkungen auf die Verarbeitung von Fallbeispielen. In O. Jandura, A. Fahr, & H.-B. Brosius (eds.), *Theorieanpassungen in der digitalen Medienwelt* (pp. 141-158). Nomos. /// <a href="https://doi.org/10.5771/9783845242682-141" target="_blank">https://doi.org/10.5771/9783845242682-141</a>
 
-(3) Müller, P. (2010). Das Legitimationsproblem des öffentlich-rechtlichen Rundfunks im Zeitalter der Medienkonvergenz. In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 172-193). Berlin: Lit.
+(3) Müller, P. (2010). Das Legitimationsproblem des öffentlich-rechtlichen Rundfunks im Zeitalter der Medienkonvergenz. In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 172-193). Lit.
 
-(2) Hohlfeld, R., Müller, P., Richter, A., & Zacher, F. (2010). Der Crossmedia-Zug rollt. Wer oder was bleibt auf der Strecke? In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 11-18). Berlin: Lit.
+(2) Hohlfeld, R., Müller, P., Richter, A., & Zacher, F. (2010). Der Crossmedia-Zug rollt. Wer oder was bleibt auf der Strecke? In R. Hohlfeld, P. Müller, A. Richter, & F. Zacher (eds.), *Crossmedia – Wer bleibt auf der Strecke? Beiträge aus Wissenschaft und Praxis* (pp. 11-18). Lit.
 
-(1) Müller, P. (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Politische Kommunikation* (pp. 167-186). Berlin: Frank & Timme.
+(1) Müller, P. (2010). Tabloid Britain – Broadsheet Germany? Die Bedeutung der Boulevardpresse für die politische Kommunikation in Großbritannien und Deutschland. In K. Mok & M. Stahl (eds.), *Politische Kommunikation heute. Beiträge des 5. Düsseldorfer Forums Politische Kommunikation* (pp. 167-186). Frank & Timme.
 
 ## Reports, Working Papers, & Data Sets
 
@@ -154,17 +154,17 @@ layout: default
 
 (7) Iana, A., Grote, A., Ludwig, K., Alam, M., Müller, P., Weinhardt, C., Sack, H., & Paulheim, H. (2022). GeNeG: German news knowledge graph (v1.0.1). *Zenodo*. /// <font color="#1869cc">open data (upon request):</font> <a href="https://doi.org/10.5281/zenodo.6039372" target="_blank">https://doi.org/10.5281/zenodo.6039372</a>
 
-(6) Müller, P., & Denner, N. (2020). *¿Qué hacer frente a las fake news?* [Spanish translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/911" target="_blank">https://shop.freiheit.org/#!/Publikation/911</a>
+(6) Müller, P., & Denner, N. (2020). *¿Qué hacer frente a las fake news?* [Spanish translation of Müller & Denner, 2019]. Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/911" target="_blank">https://shop.freiheit.org/#!/Publikation/911</a>
 
-(5) Müller, P., & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [English translation of Müller & Denner, 2019]. Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
+(5) Müller, P., & Denner, N. (2019). *What Can Be Done to Counter Fake News?* [English translation of Müller & Denner, 2019]. Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/797" target="_blank">https://shop.freiheit.org/#!/Publikation/797</a>
 
-(4) Müller, P., & Denner, N. (2019). *Was tun gegen Fake News? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet* (2nd, fully revised edition). Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/792" target="_blank">https://shop.freiheit.org/#!/Publikation/792</a>
+(4) Müller, P., & Denner, N. (2019). *Was tun gegen Fake News? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet* (2nd, fully revised edition). Friedrich-Naumann-Stiftung für die Freiheit. /// <font color="#f36b2c">open access:</font> <a href="https://shop.freiheit.org/#!/Publikation/792" target="_blank">https://shop.freiheit.org/#!/Publikation/792</a>
 
-(3) Müller, P., & Denner, N. (2017). *Was tun gegen "Fake News"? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet.* Potsdam-Babelsberg: Friedrich-Naumann-Stiftung für die Freiheit.
+(3) Müller, P., & Denner, N. (2017). *Was tun gegen "Fake News"? Eine Analyse anhand der Entstehungsbedingungen und Wirkweisen gezielter Falschmeldungen im Internet.* Friedrich-Naumann-Stiftung für die Freiheit.
 
 (2) Wirth, W., Schemer, C., Schulz, A., Wettstein, M., Wirz, D. S., & Müller, P. (2017). *A Multi-Dimensional Measure to Assess Populist Attitudes in the Public in Eight Languages* (NCCR Democracy Working Paper No. 87). Zürich: NCCR Democracy.
 
-(1) Wirth, W., Esser, F., Wettstein, M., Engesser, S., Wirz, D., Schulz, A., Ernst, N., Büchel, F., Caramani, D., Steenbergen, M., Bernhard, L., Weber, E., Hänggli, R., Dalmus, C., Schemer, C., & Müller, P. (2016). *The Appeal of Populist Ideas, Strategies and Styles: A Theoretical Model and Research Design for Analyzing Populist Political Communication* (NCCR Democracy Working Paper No. 88). Zürich: NCCR Democracy.
+(1) Wirth, W., Esser, F., Wettstein, M., Engesser, S., Wirz, D., Schulz, A., Ernst, N., Büchel, F., Caramani, D., Steenbergen, M., Bernhard, L., Weber, E., Hänggli, R., Dalmus, C., Schemer, C., & Müller, P. (2016). *The Appeal of Populist Ideas, Strategies and Styles: A Theoretical Model and Research Design for Analyzing Populist Political Communication* (NCCR Democracy Working Paper No. 88). NCCR Democracy.
 
 ## Book Reviews
 
