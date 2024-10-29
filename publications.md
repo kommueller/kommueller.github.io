@@ -98,15 +98,15 @@ layout: default
 
 ## Handbook Chapters & Encyclopedia Entries
 
-(5) Müller, P. (in prep. for 2025). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Elgar Encyclopedia of Political Communication*. Cheltenham: Elgar.
+(5) Müller, P. (in prep. for 2025). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Elgar Encyclopedia of Political Communication*. Elgar.
 
-(4) Müller, P., & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Hoboken, NJ: Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
+(4) Müller, P., & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
 
-(3) Schemer, C., & Müller, P. (2017). Europe: Representations of ethnic minorities and their effects. In C. P. Campbell (ed.), *The Routledge Companion to Media and Race* (pp. 259-268). New York: Routledge.
+(3) Schemer, C., & Müller, P. (2017). Europe: Representations of ethnic minorities and their effects. In C. P. Campbell (ed.), *The Routledge Companion to Media and Race* (pp. 259-268). Routledge.
 
-(2) Müller, P. (2013). Ralf Hohlfeld. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/ralf-hohlfeld" target="_blank">http://blexkom.halemverlag.de/ralf-hohlfeld</a>
+(2) Müller, P. (2013). Ralf Hohlfeld. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/ralf-hohlfeld" target="_blank">http://blexkom.halemverlag.de/ralf-hohlfeld</a>
 
-(1) Müller, P. (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Köln: Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
+(1) Müller, P. (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
 ## Contributions to Edited Volumes & Online Collections
 
