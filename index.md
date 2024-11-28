@@ -29,3 +29,9 @@ This page will give you an overview of my academic work. Most importantly, you c
         <div class="loading-spinner"></div>
     </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async></script>
+<bsky-embed  
+  username="kommueller.bsky.social"  
+  limit="5">  
+</bsky-embed>
