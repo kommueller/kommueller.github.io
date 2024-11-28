@@ -33,5 +33,8 @@ This page will give you an overview of my academic work. Most importantly, you c
 <script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async></script>
 <bsky-embed  
   username="kommueller.bsky.social"  
-  limit="5">  
+  limit="8"
+  load-more="true"
+  link-target="_blank"
+  link-image="true">  
 </bsky-embed>
