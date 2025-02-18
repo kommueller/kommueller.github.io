@@ -36,7 +36,7 @@ layout: default
 
 ## International Academic Stays
 
-*2025 (scheduled)* /// **Research & Teaching Stay**
+*2025* /// **Research & Teaching Stay**
 <br>*University of Oregon, USA*
 <br>School of Journalism and Communication
 
