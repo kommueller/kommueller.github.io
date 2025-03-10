@@ -6,7 +6,7 @@ layout: default
 
 ## Monographs
 
-(4) Koch, T., Seeger, C., & Müller, P. (in prep. for 2025). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Springer VS.
+(4) Koch, T., Seeger, C., & Müller, P. (forthcoming). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Springer VS.
 
 (3) Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
 
@@ -16,7 +16,7 @@ layout: default
 
 ## Editions
 
-(5) Dan, V., Rußmann, U., Schulz, A., & Müller, P. (eds., in prep. for 2026). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication*.
+(5) Dan, V., Rußmann, U., Schulz, A., & Müller, P. (eds., forthcoming). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication*.
 
 (4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
 
@@ -102,7 +102,9 @@ layout: default
 
 ## Handbook Chapters & Encyclopedia Entries
 
-(5) Müller, P. (in prep. for 2025). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Elgar Encyclopedia of Political Communication*. Elgar.
+(6) Müller, P. (forthcoming). Christina Holtz-Bacha (1990). Videomalaise revisited: Media exposure and political alienation in West Germany. In F. Oehmer-Pedrazzi & J. Haßler (eds.), *Schlüsselwerke der Politischen Kommunikationsforschung*. Springer VS.
+
+(5) Müller, P. (forthcoming). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Elgar Encyclopedia of Political Communication*. Elgar.
 
 (4) Müller, P., & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
 
