@@ -28,7 +28,7 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(36) Müller, P. (accepted). Explaining public communication change: A structure-actor model. *New Media & Society*.
+(36) Müller, P. (2025). Explaining public communication change: A structure-actor model. *New Media & Society*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448251321439" target="_blank">https://doi.org/10.1177/14614448251321439</a>
 
 (35) Ludwig, K., Müller, P., Nikolajevic, N., & Grote, A. (2025). Putting 'filter bubble' effects to the test: Evidence on the polarizing impact of ideology-based news recommendation from two experiments in Germany and the U.S. *Information, Communication and Society*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1080/1369118X.2024.2435998" target="_blank">https://doi.org/10.1080/1369118X.2024.2435998</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/zjvek/" target="_blank">https://osf.io/zjvek/</a>
 
