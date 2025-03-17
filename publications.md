@@ -152,7 +152,7 @@ layout: default
 
 ## Reports, Working Papers, & Data Sets
 
-(11) Müller, P., Freudenthaler, R., Ludwig, K., Chan, C., Wessler, H. (2025). Gruppenstigmatisierung in Nachrichtenmedien und wie sie überwunden werden kann. *BIM News. , 7*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.18452/33070" target="_blank">https://doi.org/10.18452/33070</a> 
+(11) Müller, P., Freudenthaler, R., Ludwig, K., Chan, C., Wessler, H. (2025). Gruppenstigmatisierung in Nachrichtenmedien und wie sie überwunden werden kann. *BIM News , 7*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.18452/33070" target="_blank">https://doi.org/10.18452/33070</a> 
 
 (10) Ludwig, K., Müller, P., Freudenthaler, R., Chan, C.-h., & Wessler, H. (2023). Implizite und explizite Stigmatisierung von ethnisch-gelesenen Gruppen in der deutschen Medienöffentlichkeit im Jahr 2022. *MZES Fokus, 3*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.25521/mzesfokus.2023.275" target="_blank">https://doi.org/10.25521/mzesfokus.2023.275</a>
 
