@@ -116,7 +116,7 @@ layout: default
 
 ## Contributions to Edited Volumes & Online Collections
 
-(18) Müller, P. (fortchcoming). Accessing and assessing the content of alternative media. In E. Mayerhöffer, T. Figenschou, K. Ihlebæk, & M. K. Brems (eds.), *Alternative Media Across European Media Systems. Conceptual Cornerstones, Methodological Challenges, and Systemic Conditions*. Palgrave Macmillan.
+(18) Müller, P. (forthcoming). Accessing and assessing the content of alternative media. In E. Mayerhöffer, T. Figenschou, K. Ihlebæk, & M. K. Brems (eds.), *Alternative Media Across European Media Systems. Conceptual Cornerstones, Methodological Challenges, and Systemic Conditions*. Palgrave Macmillan.
 
 (17) Ludwig, K., Chan, C.-h., Freudenthaler, R., Müller, P., & Wessler, H. (2024). Differenzieller Rassismus in den Nachrichten: Implizite und expliziter Stigmatisierungen. In C. Nuernbergk, J. Haßler, J. Schützeneder, & N. F. Schumacher (eds.), *Politischer Journalismus: Konstellationen – Muster – Dynamiken* (pp. 113-130). Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748939702-113" target="_blank">https://doi.org/10.5771/9783748939702-113</a>
 
