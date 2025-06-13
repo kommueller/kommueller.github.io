@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		user_id: '109382279189165348',
 		profile_name: '@kommueller',
 		toots_limit: 20,
-		hide_reblog: true,
+		hide_reblog: false,
 		hide_replies: true,		
 		btn_see_more: 'See more posts on Mastodon'
 	});

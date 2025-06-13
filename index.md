@@ -10,19 +10,19 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Focus in Research & Teaching
 
-* Political communication & societal cohesion
-    + Populist communication & democratic alienation
-    + Democratic impact of social & alternative media
-    + Construction & depiction of social groups
+* Political communication 
+    + Political communication & societal cohesion
+    + Construction & depiction of social groups & identities
+    + Public communication & (racialized) discrimination
     + Relationships between political journalism & citizenry
 * Media change & innovation
     + Social & psychological dynamics of media change
     + Patterns of societal discourse on media change & innovation
     + Digital news consumption & its effects
-    + Algorithmic news recommender systems
+    + Democratic impact of novel communication technologies
  * (Triangulation of) quantitative & computational methods
 
-## Latest Posts from Mastodon
+## My Latest Posts & Shares from Mastodon
 
 <div id="mt-timeline" class="mt-timeline">
     <div id="mt-body" class="mt-body">
