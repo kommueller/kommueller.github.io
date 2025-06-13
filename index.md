@@ -11,7 +11,7 @@ This page will give you an overview of my academic work. Most importantly, you c
 ## Focus in Research & Teaching
 
 * Political communication 
-    + Political communication & societal cohesion
+    + Anti-democratic communication & societal cohesion
     + Construction & depiction of social groups & identities
     + Public communication & (racialized) discrimination
     + Relationships between political journalism & citizenry
