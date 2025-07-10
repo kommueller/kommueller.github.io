@@ -22,7 +22,7 @@ This page will give you an overview of my academic work. Most importantly, you c
     + Democratic impact of novel communication technologies
  * (Triangulation of) quantitative & computational methods
 
-## My Latest Posts & Shares from Mastodon
+## My Latest Posts from Mastodon
 
 <div id="mt-timeline" class="mt-timeline">
     <div id="mt-body" class="mt-body">
