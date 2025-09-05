@@ -10,16 +10,16 @@ This page will give you an overview of my academic work. Most importantly, you c
 
 ## Focus in Research & Teaching
 
-* Political communication 
-    + Anti-democratic communication & societal cohesion
-    + Construction & depiction of social groups & identities
-    + Public communication & (racialized) discrimination
-    + Relationships between political journalism & citizenry
 * Media change & innovation
     + Social & psychological dynamics of media change
     + Patterns of societal discourse on media change & innovation
     + Digital news consumption & its effects
     + Democratic impact of novel communication technologies
+* Political communication 
+    + (Anti-)democratic communication & societal cohesion
+    + Construction & depiction of social groups & identities
+    + Public communication, party preferences, & elections
+    + Relationships between political journalism & citizenry
  * (Triangulation of) quantitative & computational methods
 
 ## My Latest Posts from Mastodon
