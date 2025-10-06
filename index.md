@@ -13,14 +13,17 @@ This page will give you an overview of my academic work. Most importantly, you c
 * Media change & innovation
     + Social & psychological dynamics of media change
     + Patterns of societal discourse on media change & innovation
-    + Digital news consumption & its effects
+    + Changes in news consumption & their effects
     + Democratic impact of novel communication technologies
 * Political communication 
     + (Anti-)democratic communication & societal cohesion
-    + Construction & depiction of social groups & identities
-    + Public communication, party preferences, & elections
-    + Relationships between political journalism & citizenry
- * (Triangulation of) quantitative & computational methods
+    + Mediated construction of social groups & societal hierarchies
+    + Public communication & elections
+    + Relationship between political journalism & citizenry
+ * Quantitative & computational methodology
+    + Mixed-methods approaches
+    + Methodological validation
+    + Interplay of empirical research and theory
 
 ## My Latest Posts from Mastodon
 
