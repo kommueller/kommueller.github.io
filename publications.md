@@ -28,6 +28,8 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
+(37) Müller, P., Freudenthaler, R., Ludwig, K., & Chan, C.-h. (accepted). Associations measured = stereotypes conveyed? A semantic validation of word embedding-based measures of implicit group stereotyping in large text corpora. *Computational Communication Research*.
+
 (36) Müller, P. (2025). Explaining public communication change: A structure-actor model. *New Media & Society*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448251321439" target="_blank">https://doi.org/10.1177/14614448251321439</a>
 
 (35) Ludwig, K., Müller, P., Nikolajevic, N., & Grote, A. (2025). Putting 'filter bubble' effects to the test: Evidence on the polarizing impact of ideology-based news recommendation from two experiments in Germany and the U.S. *Information, Communication and Society*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1080/1369118X.2024.2435998" target="_blank">https://doi.org/10.1080/1369118X.2024.2435998</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/zjvek/" target="_blank">https://osf.io/zjvek/</a>
@@ -101,6 +103,8 @@ layout: default
 (1) Müller, P. (2011). „Wir sind besser als die anderen.“ Optimistic Bias als Schema der Medienberichterstattung. *Publizistik, 56*, 441-459. /// <a href="https://doi.org/10.1007/s11616-011-0130-9" target="_blank">https://doi.org/10.1007/s11616-011-0130-9</a> /// <font color="#f36b2c">open access (postprint):</font> <a href="http://doi.org/10.25358/openscience-491" target="_blank">http://doi.org/10.25358/openscience-491</a>
 
 ## Handbook Chapters & Encyclopedia Entries
+
+(7) Wessler, H., Müller, P., Weinmann, C., & Gelovani, S. (forthcoming). How communication theory and computational research can mutually push each other forward. In M. Haim & E. Domahidi (eds.), *The Handbook of Computational Communication Research*. Routledge.
 
 (6) Müller, P. (forthcoming). Christina Holtz-Bacha (1990). Videomalaise revisited: Media exposure and political alienation in West Germany. In F. Oehmer-Pedrazzi & J. Haßler (eds.), *Schlüsselwerke der Politischen Kommunikationsforschung*. Springer VS.
 
