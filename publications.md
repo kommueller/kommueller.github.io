@@ -6,6 +6,8 @@ layout: default
 
 ## Monographs
 
+(5) Stark, B., Schneiders, P., & Müller, P. (in prep.). *Medienkonvergenz und Medienwandel*. Nomos.
+
 (4) Koch, T., Seeger, C., & Müller, P. (forthcoming). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Springer VS.
 
 (3) Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
@@ -158,7 +160,7 @@ layout: default
 
 ## Reports, Working Papers, & Data Sets
 
-(11) Müller, P., Freudenthaler, R., Ludwig, K., Chan, C.-h., Wessler, H. (2025). Gruppenstigmatisierung in Nachrichtenmedien und wie sie überwunden werden kann. *BIM News , 7*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.18452/33070" target="_blank">https://doi.org/10.18452/33070</a> 
+(11) Müller, P., Freudenthaler, R., Ludwig, K., Chan, C.-h., & Wessler, H. (2025). Gruppenstigmatisierung in Nachrichtenmedien und wie sie überwunden werden kann. *BIM News , 7*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.18452/33070" target="_blank">https://doi.org/10.18452/33070</a> 
 
 (10) Ludwig, K., Müller, P., Freudenthaler, R., Chan, C.-h., & Wessler, H. (2023). Implizite und explizite Stigmatisierung von ethnisch-gelesenen Gruppen in der deutschen Medienöffentlichkeit im Jahr 2022. *MZES Fokus, 3*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.25521/mzesfokus.2023.275" target="_blank">https://doi.org/10.25521/mzesfokus.2023.275</a>
 
