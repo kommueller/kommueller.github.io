@@ -30,7 +30,7 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(37) Müller, P., Freudenthaler, R., Ludwig, K., & Chan, C.-h. (accepted). Associations measured = stereotypes conveyed? A semantic validation of word embedding-based measures of implicit group stereotyping in large text corpora. *Computational Communication Research*.
+(37) Müller, P., Freudenthaler, R., Ludwig, K., & Chan, C.-h. (2025). Associations measured = stereotypes conveyed? A semantic validation of word embedding-based measures of implicit group stereotyping in large text corpora. *Computational Communication Research, 7*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5117/CCR2025.1.14.MULL" target="_blank">https://doi.org/10.5117/CCR2025.1.14.MULL</a> /// <font color="#e1401e">preregistration</font>, <font color="#1869cc">open data</font>, & <font color="#df9100">open materials:</font> <a href="https://osf.io/tqrj3/" target="_blank">https://osf.io/tqrj3/</a>
 
 (36) Müller, P. (2025). Explaining public communication change: A structure-actor model. *New Media & Society*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448251321439" target="_blank">https://doi.org/10.1177/14614448251321439</a>
 
@@ -46,7 +46,7 @@ layout: default
 
 (30) Müller, P., & Bach, R. L. (2023). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. *New Media & Society, 25*, 2663–2683. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448211032969" target="_blank">https://doi.org/10.1177/14614448211032969</a> /// <font color="#df9100">open materials:</font> <a href="https://osf.io/67rwq/" target="_blank">https://osf.io/67rwq/</a>
 
-(29) Müller, P., Chan, C.-h., Ludwig, K., Freudenthaler, R., & Wessler, H. (2023). Differential racism in the news: Using semi-supervised machine learning to distinguish explicit and implicit stigmatization of ethnic and religious groups in journalistic discourse. *Political Communication, 40*, 396-414. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1080/10584609.2023.2193146" target="_blank">https://doi.org/10.1080/10584609.2023.2193146</a> /// <font color="#e1401e">pre-registration</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/hncx4/" target="_blank">https://osf.io/hncx4/</a>
+(29) Müller, P., Chan, C.-h., Ludwig, K., Freudenthaler, R., & Wessler, H. (2023). Differential racism in the news: Using semi-supervised machine learning to distinguish explicit and implicit stigmatization of ethnic and religious groups in journalistic discourse. *Political Communication, 40*, 396-414. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1080/10584609.2023.2193146" target="_blank">https://doi.org/10.1080/10584609.2023.2193146</a> /// <font color="#e1401e">preregistration</font> & <font color="#df9100">open materials:</font> <a href="https://osf.io/hncx4/" target="_blank">https://osf.io/hncx4/</a>
 
 (28) Müller, P., & Freudenthaler, R. (2022). Right-wing, populist, controlled by foreign powers? Topic diversification and partisanship in the content structures of German-language alternative media. *Digital Journalism, 10*, 1363-1386. /// <a href="https://doi.org/10.1080/21670811.2022.2058972" target="_blank">https://doi.org/10.1080/21670811.2022.2058972</a>
 
