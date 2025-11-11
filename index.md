@@ -20,7 +20,7 @@ This page will give you an overview of my academic work. Most importantly, you c
     + Mediated construction of social identities, social groups, & social hierarchies
  * Quantitative & computational methodology
     + Triangulation
-    + Methodological validation
+    + Methodological innovation & validation
     + Interplay of empirical research and theory
 
 ## My Latest Posts from Mastodon
