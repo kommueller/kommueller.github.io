@@ -110,7 +110,7 @@ layout: default
 
 (6) Müller, P. (forthcoming). Christina Holtz-Bacha (1990). Videomalaise revisited: Media exposure and political alienation in West Germany. In F. Oehmer-Pedrazzi & J. Haßler (eds.), *Schlüsselwerke der Politischen Kommunikationsforschung*. Springer VS.
 
-(5) Müller, P. (forthcoming). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Elgar Encyclopedia of Political Communication*. Elgar.
+(5) Müller, P. (2025). Experiments. In A. Nai, M. Grömping, & D. Wirz (eds.), *Elgar Encyclopedia of Political Communication* (pp. 545-549). Elgar.
 
 (4) Müller, P., & Schäfer, S. (2017). Latent mean (comparison). In J. Matthes (ed.), *The International Encyclopedia of Communication Research Methods.* Wiley. /// <a href="https://doi.org/10.1002/9781118901731.iecrm0132" target="_blank">https://doi.org/10.1002/9781118901731.iecrm0132</a> /// <font color="#f36b2c">open access:</font> <a href="https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf" target="_blank">https://kommueller.github.io/fulltexts/mueller_schaefer_2017.pdf</a>
 
