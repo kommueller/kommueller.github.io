@@ -8,7 +8,7 @@ layout: default
 
 (5) Stark, B., Schneiders, P., & Müller, P. (in prep.). *Medienkonvergenz und Medienwandel*. Nomos.
 
-(4) Koch, T., Seeger, C., & Müller, P. (forthcoming). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Springer VS.
+(4) Koch, T., Seeger, C., & Müller, P. (2025). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung* (2nd, fully revised edition). Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-49131-4" target="_blank">https://doi.org/10.1007/978-3-658-49131-4</a>
 
 (3) Koch, T., Peter, C., & Müller, P. (2019). *Das Experiment in der Kommunikations- und Medienwissenschaft. Grundlagen, Durchführung und Auswertung experimenteller Forschung.* Springer VS. /// <a href="https://doi.org/10.1007/978-3-658-19754-4" target="_blank">https://doi.org/10.1007/978-3-658-19754-4</a>
 
