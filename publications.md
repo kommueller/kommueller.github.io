@@ -18,7 +18,7 @@ layout: default
 
 ## Editions
 
-(5) Dan, V., Rußmann, U., Schulz, A., & Müller, P. (eds., forthcoming). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication*.
+(5) Dan, V., Rußmann, U., Müller, P., & Schulz, A. (eds., forthcoming). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication*.
 
 (4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
 
