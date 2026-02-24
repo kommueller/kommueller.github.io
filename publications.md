@@ -30,6 +30,8 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
+(38) Müller, P., Ludwig, K., & Freudenthaler, R. (accepted). Priming effects of emotion-based group stigmatization in the news: Evidence from a multi-stimulus experiment. *Journal of Media Psychology*.
+
 (37) Müller, P., Freudenthaler, R., Ludwig, K., & Chan, C.-h. (2025). Associations measured = stereotypes conveyed? A semantic validation of word embedding-based measures of implicit group stereotyping in large text corpora. *Computational Communication Research, 7*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5117/CCR2025.1.14.MULL" target="_blank">https://doi.org/10.5117/CCR2025.1.14.MULL</a> /// <font color="#e1401e">preregistration</font>, <font color="#1869cc">open data</font>, & <font color="#df9100">open materials:</font> <a href="https://osf.io/tqrj3/" target="_blank">https://osf.io/tqrj3/</a>
 
 (36) Müller, P. (2025). Explaining public communication change: A structure-actor model. *New Media & Society*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1177/14614448251321439" target="_blank">https://doi.org/10.1177/14614448251321439</a>
