@@ -75,7 +75,7 @@ layout: default
 
 ## Services to the Academic Community
 
-* Vice Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a> (2024 -)
+* Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a> (2024 -)
 * Editorial board member of the *Journal of Media Psychology* (2024 -) & DGPuK advisory board member of *SCM – Studies in Communication and Media* (2024 - )
 * Reviewer for numerous national & international journals, conferences, & funding institutions (e.g., *American Sociological Review*, *Communication Methods and Measures*, *Communication Research*, *Communication Theory*, *Human Communication Research*, *Information, Communication & Society*,  *Journal of Communication*, *Journalism and Mass Communication Quarterly*, *Journalism Studies*, *Media Psychology*, *Nature Human Behaviour*, Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO), *New Media & Society*, *Political Behavior*, *Public Opinion Quarterly*, Schweizerischer Nationalfonds (SNF), *Social Media + Society*, *The International Journal of Press/Politics*)
 * Organizer of conferences, workshops, & panels (e.g., ICA, DGPuK Methods Division, DGPuK Media Reception and Effects Division)
