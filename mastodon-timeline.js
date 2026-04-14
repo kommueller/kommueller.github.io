@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		instance_uri: 'https://sciences.social',
 		user_id: '109382279189165348',
 		profile_name: '@kommueller',
-		toots_limit: 20,
+		toots_limit: 10,
 		hide_reblog: true,
 		hide_replies: true,		
 		btn_see_more: 'See more posts on Mastodon'
@@ -23,7 +23,7 @@ let MastodonApi = function (params_) {
 	this.INSTANCE_URI = params_.instance_uri;
 	this.USER_ID = params_.user_id;
 	this.PROFILE_NAME = params_.profile_name;
-	this.TOOTS_LIMIT = params_.toots_limit || 20;
+	this.TOOTS_LIMIT = params_.toots_limit || 10;
 	this.HIDE_REBLOG = typeof params_.hide_reblog !== 'undefined' ? params_.hide_reblog : false;
 	this.HIDE_REPLIES = typeof params_.hide_replies !== 'undefined' ? params_.hide_replies : false;		
 	this.BTN_SEE_MORE = params_.btn_see_more || 'See more'
