@@ -6,6 +6,8 @@ layout: default
 
 # Welcome to my Website!
 
+I am a tenured Senior Lecturer in the <a href="https://www.phil.uni-mannheim.de/mkw/" target ="_blank">Institute for Media and Communication Studies</a> at University of Mannheim (since 2019). Since 2024, I am also Vice Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a>.
+
 This page will give you an overview of my academic work. Most importantly, you can find links to open access publications and open materials complementing my research in the [publications list](./publications.html).
 
 ## Focus in Research & Teaching
@@ -22,11 +24,3 @@ This page will give you an overview of my academic work. Most importantly, you c
     + Triangulation
     + Methodological innovation & validation
     + Interplay of empirical research and theory
-
-## My Latest Posts from Mastodon
-
-<div id="mt-timeline" class="mt-timeline">
-    <div id="mt-body" class="mt-body">
-        <div class="loading-spinner"></div>
-    </div>
-</div>

@@ -15,9 +15,6 @@
     <div class="wrapper">
       <header>
         
-        <link rel="stylesheet" href="mastodon-timeline.css">
-        <script src='mastodon-timeline.js'></script>
-        
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -28,11 +25,8 @@
 		<p>{{ site.description | default: site.github.project_tagline }}</p>
 		
 		<p class ="view"><a href="https://www.phil.uni-mannheim.de/mkw/abteilungen/akademische-ratsstellen/dr-philipp-mueller" target="_blank">Department website</a>
-		<br><a rel="me" href="https://sciences.social/@kommueller" target="_blank">Mastodon</a>
 		<br><a href="https://scholar.google.com/citations?user=cyzW8J4AAAAJ" target="_blank">Google Scholar</a>
-		<br><a href="https://orcid.org/0000-0002-5351-0608" target="_blank">ORCID</a>
-		<br><a href="https://osf.io/ka29h/" target="_blank">OSF</a>
-		<br><a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></p>
+		<br><a href="https://orcid.org/0000-0002-5351-0608" target="_blank">ORCID</a></p>
         
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -50,7 +44,6 @@
       <footer>
         <p><small>Theme by <a href="https://github.com/orderedlist/minimal" target="_blank">orderedlist</a></small>
         <br><small>Photo by <a href="https://www.annalogue.de/" target="_blank">Anna Logue</a></small>
-        <br><small>Mastodon feed by <a href="https://gitlab.com/idotj/mastodon-embed-feed-timeline" target = "_blank">i.j</a></small>
         <br><small>Hosted on GitHub Pages</p>
         
       </footer>
