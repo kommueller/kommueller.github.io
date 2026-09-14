@@ -6,7 +6,7 @@ layout: default
 
 # Welcome to my website!
 
-I am a tenured Senior Lecturer in the <a href="https://www.phil.uni-mannheim.de/mkw/" target ="_blank">Institute for Media and Communication Studies</a> at University of Mannheim (since 2019). Since 2024, I serve as Vice Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a>.
+I am a tenured Senior Lecturer in the <a href="https://www.phil.uni-mannheim.de/mkw/" target ="_blank">Institute for Media and Communication Studies</a> at University of Mannheim (since 2019). Since 2024, I serve as Chair of the <a href="https://www.dgpuk.de/de/fachgruppen/kommunikation-und-politik" target="_blank">DGPuK Communication and Politics Division</a>.
 
 My work focuses on **digital political communication**, **news use and effects**, and the **social and psychological dynamics of media and communication change**. I study the **consequences of our changing political communication landscape** for individuals, society and the functioning of democracy, putting special emphasis on questions of **social identity, social hierarchization, societal coexistence, and social coherence**. In research and teaching, I have a special focus on **quantitative and computational methodology** and actively engage in methods development and validation.
 
