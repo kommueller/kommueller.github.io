@@ -18,6 +18,8 @@ layout: default
 
 ## Editions
 
+(6) Schulz, A., & Müller, P. (eds., 2026). *Zur Rolle sozialer Medien im Wahlkampf: Antworten von Mitgliedern der DGPuK Fachgruppe Kommunikation & Politik*. DGPuK Fachgruppe Kommunikation & Politik. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.21241/ssoar.112904" target="_blank">https://doi.org/10.21241/ssoar.112904</a>
+
 (5) Dan, V., Rußmann, U., Müller, P., & Schulz, A. (eds., 2026). Communication in Election Campaigns: Staggering Changes or Same Old, Same Old? Special Issue of *Media and Communication, 14*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.17645/mac.i508" target="_blank">https://doi.org/10.17645/mac.i508</a>
 
 (4) Krämer, B., & Müller, P. (eds., 2022). *Questions of Communicative Change and Continuity. In Memory of Wolfram Peiser.* Nomos. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.5771/9783748928232" target="_blank">https://doi.org/10.5771/9783748928232</a>
@@ -125,6 +127,13 @@ layout: default
 (1) Müller, P. (2013). Wolfram Peiser. In M. Meyen & T. Wiedemann (eds.), *Biografisches Lexikon der Kommunikationswissenschaft.* Halem. /// <font color="#f36b2c">open access:</font> <a href="http://blexkom.halemverlag.de/wolfram-peiser" target="_blank">http://blexkom.halemverlag.de/wolfram-peiser</a>
 
 ## Contributions to Edited Volumes & Online Collections
+
+(21) Müller, P. (2026). Verbreiten Parteien über soziale Medien viele
+Falschinformationen und negative Inhalte? In A. Schulz & P. Müller (eds.), *Zur Rolle sozialer Medien im Wahlkampf: Antworten von Mitgliedern der DGPuK Fachgruppe Kommunikation & Politik* (pp. 25-27). DGPuK Fachgruppe Kommunikation & Politik. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.21241/ssoar.112904" target="_blank">https://doi.org/10.21241/ssoar.112904</a>
+
+(20) Müller, P. (2026). Werden Wahlentscheidungen auf Basis von Falschinformationen getroffen? In A. Schulz & P. Müller (eds.), *Zur Rolle sozialer Medien im Wahlkampf: Antworten von Mitgliedern der DGPuK Fachgruppe Kommunikation & Politik* (pp. 22-24). DGPuK Fachgruppe Kommunikation & Politik. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.21241/ssoar.112904" target="_blank">https://doi.org/10.21241/ssoar.112904</a>
+
+(19) Schulz, A., & Müller, P. (2026). Einleitung. In A. Schulz & P. Müller (eds.), *Zur Rolle sozialer Medien im Wahlkampf: Antworten von Mitgliedern der DGPuK Fachgruppe Kommunikation & Politik* (pp. 3-4). DGPuK Fachgruppe Kommunikation & Politik. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.21241/ssoar.112904" target="_blank">https://doi.org/10.21241/ssoar.112904</a>
 
 (18) Müller, P. (2026). Accessing and assessing the content of alternative media. In E. Mayerhöffer, M. K. Brems, T. Figenschou, & K. Ihlebæk (eds.), *Alternative Media in European Contexts. Conceptual Cornerstones, Methodological Challenges, and Systemic Conditions* (pp. 227-244). Palgrave Macmillan. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1007/978-3-032-22489-7_13" target="_blank">https://doi.org/10.1007/978-3-032-22489-7_13</a>
 
