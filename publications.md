@@ -32,6 +32,8 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
+(40) Gelovani, S, Müller, P., Wessler, H., Meyer, H., Pröschel, L., Stoll, A., & Ziegele, M. (accepted). Enhancing democratic listening in online discussions: The role of reaction buttons, discussion moderation, and large language models. *Political Communication*.
+
 (39) Dan, V., Russmann, U., Müller, P., & Schulz, A. (2026). Strategic continuity and evolving toolkit: Electoral competition revisited. Editorial of the special issue "*Communication in Election Campaigns: Staggering Changes or Same Old, Same Old?*", *Media and Communication, 14*, 12572. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.17645/mac.12572" target="_blank">https://doi.org/10.17645/mac.12572</a>
 
 (38) Müller, P., Ludwig, K., & Freudenthaler, R. (2026). Priming effects of emotion-based group stigmatization in the news: Evidence from a multistimulus experiment. *Journal of Media Psychology*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1027/1864-1105/a000509" target="_blank">https://doi.org/10.1027/1864-1105/a000509</a> /// <font color="#e1401e">preregistration</font>: <a href="https://osf.io/4a56e/" target="_blank">https://osf.io/4a56e/</a> /// <font color="#1869cc">open data</font>, & <font color="#df9100">open materials:</font> <a href="https://osf.io/zhytf/" target="_blank">https://osf.io/zhytf/</a>
