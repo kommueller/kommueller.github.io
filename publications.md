@@ -32,7 +32,7 @@ layout: default
 
 ## Articles in Journals & Conference Proceedings
 
-(40) Gelovani, S, Müller, P., Wessler, H., Meyer, H., Pröschel, L., Stoll, A., & Ziegele, M. (accepted). Enhancing democratic listening in online discussions: The role of reaction buttons, discussion moderation, and large language models. *Political Communication*.
+(40) Gelovani, S, Müller, P., Wessler, H., Meyer, H., Pröschel, L., Stoll, A., & Ziegele, M. (2026). Enhancing democratic listening in online discussions: The role of reaction buttons, discussion moderation, and large language models. *Political Communication*. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.1080/10584609.2026.2749531" target="_blank">https://doi.org/10.1080/10584609.2026.2749531</a> /// <font color="#1869cc">open data</font>: <a href="https://osf.io/82n3z/" target="_blank">https://osf.io/82n3z/</a> 
 
 (39) Dan, V., Russmann, U., Müller, P., & Schulz, A. (2026). Strategic continuity and evolving toolkit: Electoral competition revisited. Editorial of the special issue "*Communication in Election Campaigns: Staggering Changes or Same Old, Same Old?*", *Media and Communication, 14*, 12572. /// <font color="#f36b2c">open access:</font> <a href="https://doi.org/10.17645/mac.12572" target="_blank">https://doi.org/10.17645/mac.12572</a>
 
